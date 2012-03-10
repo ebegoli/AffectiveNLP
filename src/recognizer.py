@@ -1,29 +1,13 @@
 #!/usr/bin/env python
 #
-__author__ = 'la'
+__author__ = 'Edmon Begoli'
 import nltk
 
 #from nltk.book import *
 from urllib import urlopen
-
 url = "http://www.gutenberg.org/files/2554/2554.txt"
 raw = urlopen(url).read()
 
-def lookup_conceptnet( raw ):
-
-    tokens = nltk.word_tokenize(raw)
-
-    for token in tokens:
-        print token
-        # fetch the url
-        url = "http://conceptnet5.media.mit.edu/data/concept/en/" + token
-        json = urlopen(url).read()
-        print json
-  
-        # convert to a native python object
-        (true, false, null) = (True, False, None)
-        profiles = eval(json)
-    
 
 def extract_entity_names(t):
     entity_names = []
@@ -38,13 +22,15 @@ def extract_entity_names(t):
     return entity_names
 
 
-def extract_entities( raw ):    
-    
+def extract_chunked_sentences( raw ):
     sentences = nltk.sent_tokenize(raw)
     tokenized_sentences = [nltk.word_tokenize(sentence) for sentence in sentences]
     tagged_sentences = [nltk.pos_tag(sentence) for sentence in tokenized_sentences]
     chunked_sentences = nltk.batch_ne_chunk(tagged_sentences, binary=True)    
     return chunked_sentences
+
+def extract_entities( chunked_sentences ):    
+
     entity_names = []    
 
     for tree in chunked_sentences:
@@ -59,8 +45,15 @@ def extract_entities( raw ):
     # Print unique entity names
     print set(entity_names)
 
+def extract_pos( raw ):
+    text = nltk.word_tokenize( raw )
+    return nltk.pos_tag( text )
+    
+
 def main():
-    pass
+    raw = "Peter loves New York City."
+    print extract_pos( raw )
+    print extract_entities( extract_chunked_sentences( raw ) )
 
 if __name__ == '__main__':
     main()
