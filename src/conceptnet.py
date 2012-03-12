@@ -3,7 +3,7 @@ Created on Mar 9, 2012
 
 '''
 __author__ = 'Edmon Begoli'
-import nltk
+import nltk 
 from urllib import urlopen
 
 def lookup_conceptnet( raw ):
@@ -20,4 +20,11 @@ def lookup_conceptnet( raw ):
         # convert to a native python object
         (true, false, null) = (True, False, None)
         profiles = eval(json)
+        
+def main():
+    pass        
+        
+if __name__ == '__main__':
+    main()
+
     
