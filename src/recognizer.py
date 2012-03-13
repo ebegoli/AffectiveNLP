@@ -4,7 +4,7 @@ __author__ = 'Edmon Begoli'
 import nltk
 #from nltk.book import *
 from urllib import urlopen
-from emotions import primary, pretty
+from emotions import parrot_primary, pretty
 
 
 #url = "http://www.gutenberg.org/files/2554/2554.txt"
@@ -53,7 +53,7 @@ def extract_pos( raw ):
     
 
 def main():
-    pretty( primary )
+    pretty( parrot_primary )
     raw = "Peter loves New York City."
   #  print extract_pos( raw )
   #  print extract_entities( extract_chunked_sentences( raw ) )

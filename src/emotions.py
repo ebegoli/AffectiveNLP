@@ -1,12 +1,10 @@
-''' Collection of primary, secondary and tertiary emotions
+''' Collection of parrot_primary, secondary and tertiary emotions
 '''
 __author__ = 'Edmon Begoli'
 
-primary = {}
+parrot_primary = {}
 secondary = {}
 
-primary_parrot_names = ('love')
-secondary_parrot_names = ('affection', 'lust', 'longing')
 
 #For love
 secondary['affection'] = ('adoration', 'affection', 'love', 'fondness', 'liking'
@@ -15,7 +13,7 @@ secondary['affection'] = ('adoration', 'affection', 'love', 'fondness', 'liking'
 secondary['lust'] = ('arousal', 'desire', 'lust', 'passion', 'infatuation')
 secondary['longing'] = ('longing')
 
-primary['love'] = ( secondary[i] for i in ('affection', 'lust', 'longing') )
+parrot_primary['love'] = ( secondary[i] for i in ('affection', 'lust', 'longing') )
 
 
 #For joy
@@ -31,13 +29,13 @@ secondary['optimism'] = ('eagerness', 'hope', 'optimism')
 secondary['enthrallment'] = ('enthrallment', 'rapture')
 secondary['relief'] = ('relief')
 
-primary['joy'] = ( secondary[i] for i in ('cheerfulness', 'zest', 'contentment', 
+parrot_primary['joy'] = ( secondary[i] for i in ('cheerfulness', 'zest', 'contentment', 
                    'pride','optimism','enthrallment','relief') )
 
 #For surprise
 secondary['surprise'] = ('amazement', 'surprise', 'astonishment' )
 
-primary['surprise'] = ([secondary['surprise']]) 
+parrot_primary['surprise'] = ([secondary['surprise']]) 
 
 #For anger
 secondary['irritation'] = ('aggravation', 'irritation', 'agitation', 
@@ -50,7 +48,7 @@ secondary['disgust'] = ( 'disgust', 'revulsion', 'contempt' )
 secondary['envy'] = ( 'envy', 'jealousy' )
 secondary['torment'] = ('torment')
 
-primary['anger'] = ( secondary[i] for i in ('irritation', 'exasperation', 'rage',
+parrot_primary['anger'] = ( secondary[i] for i in ('irritation', 'exasperation', 'rage',
                      'disgust','envy','torment') )
 
 #For sadness
@@ -65,7 +63,7 @@ secondary['neglect'] = ( 'alienation', 'isolation', 'neglect', 'loneliness',
                          'insecurity', 'embarrassment', 'humiliation', 'insult')
 secondary['sympathy'] = ( 'pity', 'sympathy' )
 
-primary['sadness'] = ( secondary[i] for i in ('suffering', 'sadness', 
+parrot_primary['sadness'] = ( secondary[i] for i in ('suffering', 'sadness', 
                        'disappointment', 'shame','neglect','sympathy') )
 
 #For fear
@@ -74,7 +72,7 @@ secondary['fear'] = ( 'horror', 'alarm', 'shock', 'fear', 'fright', 'horror',
 secondary['nervousness'] = ( 'anxiety', 'nervousness', 'tenseness', 'uneasiness', 
                              'apprehension', 'worry', 'distress', 'dread' )
 
-primary['fear'] = ( secondary[i] for i in ('fear', 'nervousness') )
+parrot_primary['fear'] = ( secondary[i] for i in ('fear', 'nervousness') )
 
 
 def pretty(d, indent=0):
