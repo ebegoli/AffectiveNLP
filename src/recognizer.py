@@ -2,11 +2,13 @@
 #
 __author__ = 'Edmon Begoli'
 import nltk
-
 #from nltk.book import *
 from urllib import urlopen
-url = "http://www.gutenberg.org/files/2554/2554.txt"
-raw = urlopen(url).read()
+from emotions import primary, pretty
+
+
+#url = "http://www.gutenberg.org/files/2554/2554.txt"
+#raw = urlopen(url).read()
 
 
 def extract_entity_names(t):
@@ -51,9 +53,10 @@ def extract_pos( raw ):
     
 
 def main():
+    pretty( primary )
     raw = "Peter loves New York City."
-    print extract_pos( raw )
-    print extract_entities( extract_chunked_sentences( raw ) )
+  #  print extract_pos( raw )
+  #  print extract_entities( extract_chunked_sentences( raw ) )
 
 if __name__ == '__main__':
     main()
