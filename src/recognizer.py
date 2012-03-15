@@ -5,6 +5,7 @@ import nltk
 #from nltk.book import *
 from urllib import urlopen
 from emotions import parrot_primary, pretty
+from nltk.corpus import wordnet as wn
 
 
 #url = "http://www.gutenberg.org/files/2554/2554.txt"
@@ -53,6 +54,7 @@ def extract_pos( raw ):
     
 
 def main():
+
     pretty( parrot_primary )
     raw = "Peter loves New York City."
   #  print extract_pos( raw )

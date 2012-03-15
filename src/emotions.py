@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 ''' Collection of parrot_primary, secondary and tertiary emotions
 '''
 __author__ = 'Edmon Begoli'
@@ -5,6 +6,7 @@ __author__ = 'Edmon Begoli'
 parrot_primary = {}
 secondary = {}
 
+from nltk.corpus import wordnet as wn
 
 #For love
 secondary['affection'] = ('adoration', 'affection', 'love', 'fondness', 'liking'
@@ -74,13 +76,16 @@ secondary['nervousness'] = ( 'anxiety', 'nervousness', 'tenseness', 'uneasiness'
 
 parrot_primary['fear'] = ( secondary[i] for i in ('fear', 'nervousness') )
 
-
 def pretty(d, indent=0):
     for key, value in d.iteritems():
         print '\t' + key
         for val in value:
             print val
 
-        
-        
-       
+def main():
+    print wn.synset( 'sentimentality.n.00' )
+    
+if __name__ == "__main__":
+    main()    
+    
+    
