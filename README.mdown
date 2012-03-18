@@ -1,0 +1,6 @@
+E Begoli, 3/2012
+
+This project is related to my doctoral research in
+natural language processing and computational linguistics.
+
+It uses  NTLK, Python and document and graph-oriented databases. 
