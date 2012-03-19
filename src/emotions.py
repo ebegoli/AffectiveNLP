@@ -11,6 +11,7 @@ secondary = {}
 
 from nltk.corpus import wordnet as wn
 
+
 #For love
 secondary['affection'] = ('adoration', 'affection', 'love', 'fondness', 'liking'
                           , 'attraction', 'caring', 'tenderness', 
@@ -20,7 +21,6 @@ secondary['longing'] = ('longing')
 
 parrot_primary['love'] = dict( (i,secondary[i]) for i in ('affection', 'lust',
                                                            'longing') )
-
 
 #For joy
 secondary['cheerfulness'] = ('amusement', 'bliss', 'cheerfulness', 'gaiety', 
@@ -38,6 +38,7 @@ secondary['relief'] = ('relief')
 parrot_primary['joy'] = dict( (i,secondary[i]) for i in ('cheerfulness',
                                                          'zest', 'contentment', 
                    'pride','optimism','enthrallment','relief') )
+
 
 #For surprise
 secondary['surprise'] = ('amazement', 'surprise', 'astonishment' )
@@ -81,7 +82,6 @@ secondary['nervousness'] = ( 'anxiety', 'nervousness', 'tenseness', 'uneasiness'
                              'apprehension', 'worry', 'distress', 'dread' )
 
 parrot_primary['fear'] = dict( (i,secondary[i]) for i in ('fear', 'nervousness') )
-
 
 def pretty(d, indent=0):
     for key, value in d.iteritems():
