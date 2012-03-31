@@ -3,9 +3,6 @@
 '''
 __author__ = 'Edmon Begoli'
 
-
-# TODO:
-
 parrot_primary = {}
 secondary = {}
 

@@ -20,6 +20,6 @@ def main():
             secondary = g.vertices.create({'name':sec})
             g.edges.create(primary,"primary",secondary)
     print g.E
-    
+
 if __name__ == '__main__':
     main()

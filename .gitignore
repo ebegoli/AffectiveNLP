@@ -2,3 +2,5 @@
 *.pyc
 *.pyo
 *.kpf
+*.komodotools
+*.idea

@@ -2,17 +2,16 @@
 #
 __author__ = 'Edmon Begoli'
 import nltk
-#from nltk.book import *
 from urllib import urlopen
 from emotions import parrot_primary, pretty
 from nltk.corpus import wordnet as wn
 
-
 #url = "http://www.gutenberg.org/files/2554/2554.txt"
 #raw = urlopen(url).read()
 
-
 def extract_entity_names(t):
+    """
+    """    
     entity_names = []
     
     if hasattr(t, 'node') and t.node:
@@ -21,11 +20,11 @@ def extract_entity_names(t):
         else:
             for child in t:
                 entity_names.extend(extract_entity_names(child))
-                
     return entity_names
 
-
 def extract_chunked_sentences( raw ):
+    """
+    """    
     sentences = nltk.sent_tokenize(raw)
     tokenized_sentences = [nltk.word_tokenize(sentence) for sentence in sentences]
     tagged_sentences = [nltk.pos_tag(sentence) for sentence in tokenized_sentences]
@@ -33,8 +32,9 @@ def extract_chunked_sentences( raw ):
     return chunked_sentences
 
 def extract_entities( chunked_sentences ):    
-
-    entity_names = []    
+    """
+    """
+    entity_names = []
 
     for tree in chunked_sentences:
         # Print results per sentence
@@ -49,16 +49,21 @@ def extract_entities( chunked_sentences ):
     print set(entity_names)
 
 def extract_pos( raw ):
+    """
+    """
     text = nltk.word_tokenize( raw )
     return nltk.pos_tag( text )
     
 
 def main():
-
-    pretty( parrot_primary )
+    """
+    """
+    # pretty( parrot_primary )
     raw = "Peter loves New York City."
-  #  print extract_pos( raw )
-  #  print extract_entities( extract_chunked_sentences( raw ) )
+    print extract_pos( raw )
+    print extract_entities( extract_chunked_sentences( raw ) )
+    print wn.synsets( 'loath' )
+    print wn.synsets( 'love' )
 
 if __name__ == '__main__':
     main()
