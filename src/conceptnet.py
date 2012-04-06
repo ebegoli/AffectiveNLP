@@ -21,6 +21,21 @@ def lookup_conceptnet( raw ):
         (true, false, null) = (True, False, None)
         profiles = eval(json)
         
+def lookup_parrot( raw ):
+
+    tokens = nltk.word_tokenize(raw)
+
+    for token in tokens:
+        print token
+        # fetch the url
+        url = "http://conceptnet5.media.mit.edu/data/concept/en/" + token
+        json = urlopen(url).read()
+        print json
+  
+        # convert to a native python object
+        (true, false, null) = (True, False, None)
+        profiles = eval(json)
+        
 def main():
     pass        
         

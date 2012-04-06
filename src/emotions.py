@@ -8,6 +8,7 @@ secondary = {}
 
 from nltk.corpus import wordnet as wn
 from io import FileIO
+from nltk import SnowballStemmer 
 
 #For love
 secondary['affection'] = ('adoration', 'affection', 'love', 'fondness', 'liking'
@@ -123,7 +124,26 @@ def get_synsets(d, indent=0):
                     f.write( str(syn) + "-" + syn.definition + "\n\t\t\t ")
 
 
+
+
+def get_emotions_list( indent=0 ):
+    ''' Provides a unique, flattened list of parrot emotions
+    '''  
+    emotions = []
+    for key, value in parrot_primary.iteritems():
+        if key not in emotions:
+           emotions.append( str(key) )
+        for k, val in value.iteritems():
+          if k not in emotions:
+             emotions.append( str(k) )
+          for em in val:   
+             if em not in emotions:
+                 emotions.append( str(em) )
+    return emotions
+
 def pretty_print( d, indent=0 ):
+    '''
+    '''
     for key, value in d.iteritems():
         print '\t' + key
         #print '\t' + str(value)
@@ -133,9 +153,37 @@ def pretty_print( d, indent=0 ):
                 print '\t\t\t' + em
 
 
+def is_emotion( word, casesensitive=False ):
+    ''' Looks up a word in the lists of emotions '''
+
+    if casesensitive == False:
+      word = word.lower()
+
+    print word  
+
+    if parrot_primary.has_key( word ):
+      return True
+    for prim, value in parrot_primary.iteritems():
+          if value.has_key( word ):
+             return True
+          for sec, val in value.iteritems():
+            if word in val:
+              return True
+              
+    return False 
+
+
+
+
 def main():
-    get_synsets( parrot_primary)
-    
+    #get_synsets( parrot_primary)
+    stemmer = SnowballStemmer('english')
+    print stemmer.stem( "affectionate" )
+
+    print is_emotion( "affection" )
+    print is_emotion( "Affection" ) 
+    print is_emotion( "haha" )
+
 if __name__ == "__main__":
     main()    
     
