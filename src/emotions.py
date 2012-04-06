@@ -14,7 +14,7 @@ secondary['affection'] = ('adoration', 'affection', 'love', 'fondness', 'liking'
                           , 'attraction', 'caring', 'tenderness', 
                           'compassion', 'sentimentality')
 secondary['lust'] = ('arousal', 'desire', 'lust', 'passion', 'infatuation')
-secondary['longing'] = list('longing')
+secondary['longing'] = ('longing',)
 
 parrot_primary['love'] = dict( (i,secondary[i]) for i in ('affection', 'lust',
                                                            'longing') )
@@ -30,7 +30,7 @@ secondary['contentment'] = ( 'contentment', 'pleasure' )
 secondary['pride'] = ('pride', 'triumph')
 secondary['optimism'] = ('eagerness', 'hope', 'optimism')
 secondary['enthrallment'] = ('enthrallment', 'rapture')
-secondary['relief'] = list('relief')
+secondary['relief'] = ('relief',)
 
 parrot_primary['joy'] = dict( (i,secondary[i]) for i in ('cheerfulness',
                                                          'zest', 'contentment', 
@@ -51,7 +51,7 @@ secondary['rage'] = ( 'anger', 'rage', 'outrage', 'fury', 'wrath', 'hostility',
                       'spite', 'vengefulness', 'dislike', 'resentment' )
 secondary['disgust'] = ( 'disgust', 'revulsion', 'contempt' )
 secondary['envy'] = ( 'envy', 'jealousy' )
-secondary['torment'] = list('torment')
+secondary['torment'] = ('torment',)
 
 parrot_primary['anger'] = dict( (i,secondary[i]) for i in ('irritation',
                                'exasperation', 'rage',
@@ -81,25 +81,46 @@ secondary['nervousness'] = ( 'anxiety', 'nervousness', 'tenseness', 'uneasiness'
 parrot_primary['fear'] = dict( (i,secondary[i]) for i in ('fear', 'nervousness') )
 
 def get_synsets(d, indent=0):
+    ''' Function queries the 
+    '''
     with open("parrot_synsets.txt", "w") as f:
-
+      f.write( "total #primary:" + str(len(d)))      
       for prim, value in d.iteritems():
-          print ' for primary: ' + prim
-          f.write( '\n primary: ' + prim + "\n" )
-          for syn in wn.synsets( prim ):
-            print str(syn)
-            f.write(  str(syn) + " " )
+          prim_syns = wn.synsets( prim )
+          prim_syns.sort()
+          f.write( '\nprimary: ' + prim )
+          f.write( '(# of secondary:' + str(len(value)) )
+          f.write( ' # of synsets: ' + str(len(prim_syns)) + ')\n\t ')
+          for syn in prim_syns:
+            f.write(  str(syn) + "-" + syn.definition + "\n\t " )
           for sec, val in value.iteritems():
-              print ' for secondary: ' + sec
-              f.write( '\nsecondary: ' + sec + "\n" )
-              for syn in wn.synsets( sec ):
-                f.write( str(syn) + " " )
+              sec_syns = wn.synsets( sec )
+              sec_syns.sort()
+              f.write( "\n\t\tsecondary:"  + sec ) 
+              f.write( " (# of tertiary:" + str(len(val)) )
+              f.write( " # of synsets:" + str(len(sec_syns)) + ")\n\t\t " )
+
+              par_cycles = set(prim_syns) & set(sec_syns) 
+              if (len(par_cycles)) > 0:
+                f.write( ">>> cycles to parent " + str(par_cycles))
+
+              for syn in sec_syns:
+                f.write( str(syn) + "-" + syn.definition + "\n\t\t " )
               for ter in val: 
-                print 'for tertiary: ' + ter
-                f.write( '\ntertiary: ' + ter + "\n" )
-                for syn in wn.synsets( ter ):
-                    print str(syn)
-                    f.write( str(syn) + " ")
+                ter_syns = wn.synsets( ter )
+                ter_syns.sort()           
+                par_cycles = set(ter_syns) & set(sec_syns) 
+                gpar_cycles = set(ter_syns) & set(prim_syns) 
+
+                if (len(par_cycles)) > 0:
+                  f.write( ">>> cycles to parent " + str(par_cycles))
+                if (len(gpar_cycles)) > 0:
+                  f.write( ">>> cycles to grandparent " + str(gpar_cycles))
+
+                f.write( '\n\t\t\ttertiary: ')
+                f.write( ter + "(# of synsets: " +  str(len(ter_syns)) + ")\n\t\t\t " )
+                for syn in ter_syns:
+                    f.write( str(syn) + "-" + syn.definition + "\n\t\t\t ")
 
 
 def pretty_print( d, indent=0 ):
