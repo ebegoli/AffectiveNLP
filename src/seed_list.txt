@@ -1,0 +1,1122 @@
+                                                                     
+                                                                     
+                                                                     
+                                             
+Admire, Admiration, Admirable, Admired
+
+1.	(v) look up to#1
+2.	(v) respect#1, (j) respectable#2
+3.	(v) esteem#1, (j) esteemed#1
+4.	(v) value#2#3
+5.	(v) prize#1#3
+6.	(v) think the world of#1
+7.	(v) reverence#1, (v) revere#1#2, (j) reverent#1#2
+8.	(n) idolization#1, (n) idolization#1, (v) idolize#1, (v) idolize#1
+9.	(n) adoration#1#2#3, (v) adore#1, (j) adoring#1#2
+10.	(n) veneration#1, (v) venerate#1
+11.	(n) regard#5
+12.	(n) deference#1
+13.	(v) honor#2, (j) honorable#4, (v) honour#2, (j) honored#1
+14.	(v) abide by#2
+15.	(n) awe#2
+16.	(v) fetishize#1
+17.	(v) worship#1
+18.	(n) hero-worship#1
+19.	(j) proud of#1
+20.	(v) congratulate#1
+21.	(v) approve#2, (n) approval#1#2#4
+22.	(n) approbation#1, (j) approbatory#1
+23.	(j) affirmative#3
+24.	(j) plausive#1
+25.	(n) sanction#1
+26.	(n) countenance#2
+27.	(n) endorsement#3, (v) endorse#1
+28.	(v) back#1, (v) back up#1
+29.	(v) plump for#1
+30.	(v) plunk for#1
+31.	(v) support#3, (j) supportive#1
+32.	(v) subscribe#3
+33.	(v) commend#1#4, (n) commendation#2, (j) commendable#1
+34.	(n) paragon#1
+35.	(n) saint#3
+36.	(j) virtuous#1
+37.	(j) righteous#1
+38.	(v) applaud#2, (j) applaudable#1
+39.	(v) compliment#1#2, (n) compliment#1
+40.	(v) praise#1, (n) praise#1, (j) praiseworthy#1
+41.	(v) credit#1
+42.	(n) high opinion
+43.	(v) think highly of
+44.	(v) appreciate#3, (n) appreciation#4
+45.	(n) accolade#1
+46.	(n) plaudit#1
+47.	(v) laud#1, (j) laudable#1
+48.	(v) acclaim#1, (n) acclaim#1, (n) acclamation#1
+49.	(v) hail#1
+50.	(n) éclat#1
+51.	(v) extol#1, (n) extolment#1
+52.	(n) kudos#1
+53.	(n) tribute#1
+54.	(n) testimonial#2
+55.	(v) exalt#1
+56.	(v) glorify#1
+57.	(j) worthy#1#2#3
+58.	(j) estimable#1#2
+59.	(j) excellent#1
+60.	(j) exemplary#1
+61.	(j) meritorious#1, (j) meritable#1, (n) merit#1
+62.	(j) superior#1#2, (j) superb#1#2
+63.	(n) perfection#1, (j) perfect#1
+64.	(j) flawless#1
+65.	(n) greatness#1
+66.	(j) illustrious#1
+67.	(j) celebrated#1
+68.	(j) renowned#1
+69.	(n) grandeur#1
+70.	(j) grandiose#1
+71.	(n) eminence#1
+72.	(j) preeminent#1, (n) preeminence#1
+73.	(n) distinction#2
+74.	(j) outstanding#1#2#4
+75.	(j) prominent#1
+76.	(j) sterling#1
+77.	(j) superlative#1
+78.	(j) splendid#2#3, (n) splendor#2, (n) splendour#2
+79.	(j) spectacular#3
+80.	(n) magnificence#2, (j) magnificent#1
+81.	(j) glorious#2
+82.	(j) brilliant#1#3, (n) brilliance#2
+83.	(j) tremendous#2
+84.	(j) fantastic#2
+85.	(j) grand#4
+86.	(j) marvelous#1
+87.	(j) terrific#2
+88.	(j) wonderful#1, (j) wondrous#1
+89.	(j) top-notch#1
+90.	(j) first-rate#1
+91.	(n) first-class#1
+92.	(j) super#1
+93.	(j) notable#2
+94.	(j) matchless#1, (j) unmatched#1
+95.	(j) peerless#1
+96.	(j) unrivaled#1, unrivalled#1
+97.	(n) prestige#1, (n) prestigiousness#1, (j) prestigious#1
+
+
+Anger, Angry, Angrily
+
+1.	(n) choler#2, (j) choleric#3
+2.	(n) ire#1
+3.	(n) wrath#2
+4.	(n) irate#1
+5.	(v) antagonize#1, (v) antagonise#2, (n) antagonism#1
+6.	(v) see red#1
+7.	(n) irritability#1, (j) irritated#1, (v) irritate#1
+8.	(n) hostility#1#2#3, (j) hostile#1
+9.	(j) miffed#1
+10.	(j) nettled#1, (v) nettle#2
+11.	(n) crossness#1
+12.	(v) fret#6, (n) fretfulness#1
+13.	(n) fussiness#1
+14.	(n) peevishness#1, (j) peeved#1
+15.	(n) petulance#1
+16.	(n) fury#1#2, (j) furious#2#3, (v) infuriate#1, (j) infuriated#1
+17.	(j) fierce#1
+18.	(j) savage#4
+19.	(n) rage#1, (v) enrage, (j) enraged#1
+20.	(n) madness#3, (v) madden#2#3, (j) maddened#1
+21.	(n) indignation#1, (j) indignant#1
+22.	(n) outrage#1, (j) outraged#1, (j) outrageous#1
+23.	(n) huffiness#1
+24.	(n) umbrage#1, (j) umbrageous#2
+25.	(n) offense#2, (v) offend#1#3, (j) offended#1
+26.	(v) appall#1, (j) appalled#1
+27.	(n) bad temper#1
+28.	(n) ill temper#1
+29.	(v) annoy#1, (n) annoyance#1, (j) annoyed#1
+30.	(n) chafe#2, (v) chafe#3
+31.	(n) vexation#1, (j) vexed#1, (v) vex#1
+32.	(n) animosity#1
+33.	(n) dander#2
+34.	(n) hackles#1
+35.	(j) pissed#1, (j) pissed off#1
+36.	(j) riled#1, (v) rile#1
+37.	(j) roiled#1
+38.	(j) steamed#2
+39.	(j) displeased#1
+40.	(v) get to#3
+41.	(v) bother#2
+42.	(v) get at#3
+43.	(j) harassed#1
+44.	(j) harried#1, (v) harry#1
+45.	(v) hassle#1
+46.	(j) pestered#1
+47.	(v) rag#2
+48.	(v) nark#1
+49.	(v) gravel#1
+50.	(v) rankle#1
+51.	(v) grate#2
+52.	(v) eat into#1
+53.	(v) ruffle#2
+54.	(v) chivy#1, (v) chivvy#1
+55.	(v) chevy#1, (v) chevvy#1
+56.	(v) plague#2
+57.	(v) molest#2
+58.	(v) provoke#4, (j) provoked#1
+59.	(j) disconcerted#1
+60.	(j) merciless#1
+61.	(j) pitiless#1
+62.	(j) ruthless#1
+63.	(j) remorseless#1
+64.	(n) exasperation#1#2, (v) exasperate#2, (j) exasperated#1
+65.	(n) aggravation#1, (v) aggravate#2, (j) aggravated#2
+66.	(v) exacerbate#2
+67.	(n) enmity#1#2
+68.	(n) acrimony#1, (j) acrimonious#1
+69.	(n) acerbity#3, (j) acerbic#2, (v) acerbate#1
+70.	(n) jaundice#2, (j) jaundiced#2
+71.	(j) incensed#1, (v) incense#2
+72.	(j) inflamed#3
+73.	(n) rancor#1, (n) rancour#1, (j) rancorous#1
+74.	(j) bitter#1#3, (n) bitterness#1#2
+75.	(j) blistering#1
+76.	(j) caustic#1
+77.	(j) virulent#3
+78.	(j) vitriolic#1
+79.	(v) embitter#1
+80.	 (n) bad blood#1
+81.	(j) fuming, (v) fume#1
+82.	(j) irascible#2
+
+
+Fear, Fearful, Fearsome, Feared
+
+1.	(n) fright#1, (v) frighten#1, (j) frightened#1, (j) frightful#1
+2.	(n) (j) concern#2, (j) concerned#1
+3.	(n) (v) dread#1, (j) dread#1, (j) dreadful#1
+4.	(n) (v) (j) alarm#1, (j) alarmed#1
+5.	(n) (j) dismay#2, (j) dismayed#1
+6.	(n) consternation#1, (v) consternate#1
+7.	(n) (v) (j) horror#1, (j) horrified#1
+8.	(n) panic#1, (j) panicked#1, (j) panicky#1, (j) panic-stricken#1
+9.	(n) terror#1, (j) terrified#1
+10.	(n) affright#1
+11.	(n) apprehension#1, (j) apprehensive#2#3, (n) apprehensiveness#1
+12.	(n) intimidation#3, (j) intimidated#1
+13.	(n) scare#2, (j) scared#1
+14.	(v) worry#1, (n) worrisome#2, (j) worrying#1, (j) worried#1#2
+15.	 (j) shitless#1
+16.	(j) unnerved#1
+17.	(j) white-lipped#1
+18.	(j) chicken#1
+19.	(j) lily-livered#1
+20.	(j) white-livered#1
+21.	(j) yellow-bellied#1
+22.	(j) pessimistic#1, (n) pessimism#1#2
+23.	(n) (j) foreboding#1
+24.	(j) portentous#2
+25.	(j) fateful#2
+26.	(n) threat#1#2#3, (j) threatening#1, (v) threaten#1
+27.	(n) menace#1, (j) menacing#1
+28.	(j) forbidding#2
+29.	(j) baleful#2
+30.	(v) jeopardize#1, (v) jeopardize#1, (v) jeopardize#1, (j) jeopardized
+31.	(v) imperil#1, (j) imperiled
+32.	(v) endanger#1, (j) endangered#1, (n) endangerment#1
+33.	(n) trepidation#1
+34.	(n) qualm#1
+35.	(n) misgiving#1
+36.	(n) nightmare#1
+37.	(n) bugaboo#2
+38.	(n) specter#1, (n) spectre#2
+39.	(j) ominous#1
+40.	(j) dire#1
+41.	(j) desperate#6, (n) desperation#1
+42.	(j) uneasy#1#3, (n) uneasiness#1
+43.	(j) nervous#2
+44.	(v) shrink from#1
+45.	(v) cringe at
+46.	(j) hopeless#1#3, (n) hopelessness#1
+
+
+Reproach, Reproachful
+
+1.	(v) resent#1, (n) resentment#1
+2.	(n) umbrage#1, (j) umbrageous#2
+3.	(n) offense#2, (v) offend#1, (n) offender#1
+4.	(n) disgust#1, (v) disgust#1, (j) disgusting#1
+5.	(v) detest#1, (n) detestation#1, (j) detestable#1
+6.	(n) contempt#1, (j) contemptuous#1, (j) contemptible#1
+7.	(j) reprehensible#1, (n) reprehension#1
+8.	(n) disdain#1, (j) disdainful#1, (n) disdainfulness#1
+9.	(v) loath#1, (n) loathing#1, (j) loathsome#1#2
+10.	(n) odium#2, (j) odious#1
+11.	(n) revulsion#1
+12.	(v) revolt#2, (j) revolting#1
+13.	(v) repel#5, (j) repelling#1, (j) repellant#2, (j) repellent#2
+14.	(j) repulsive#1, (n) repulsion#2
+15.	(n) repugnance#1, (j) repugnant#1
+16.	(v) sicken#1, (j) sickening#1
+17.	(v) gross out#1
+18.	(v) nauseate#2
+19.	(n) creeps#2
+20.	(j) aghast#1
+21.	(j) appalled#1
+22.	(n) rebuke#1, (v) rebuke#1
+23.	(v) criticize#1, (v) criticize#1
+24.	(n) blame#2
+25.	(v) abhor#1, (n) abhorrence#1, (j) abhorrent#1
+26.	(n) abomination#2
+27.	(v) upbraid#1
+28.	(v) accuse#1
+29.	(v) impeach#3
+30.	(v) incriminate#2, (n) incrimination#1
+31.	(n) reproof#1, (n) reproval#1
+32.	(n) reprehension#1
+33.	(v) put off#2
+34.	(v) turn off#3, (j) turned off, (n) turnoff#1
+35.	(j) shameful#1#2
+36.	(n) (v) dishonor#1, (n)(v) dishonour#1, (j) dishonorable#1
+37.	(n) disgrace#1, (j) disgraceful#1#2, (j) disgraced#1, (v) disgrace#2
+38.	(n) ignominy#1, (j) ignominious#1
+39.	(j) inglorious#1
+40.	(j) opprobrious#2
+41.	(v) attaint#1
+42.	(v) corrupt#1#3, (n) corruption#1, (j) corrupting#1
+43.	(n) degenerate#1, (n) degeneracy#2
+44.	(n) perversion#3, (j) perverted#3, (n) pervert#1, (v) pervert#1, (j) perverse#3
+45.	(v) subvert#2
+46.	(v) demoralize#1, (v) demoralize#1
+47.	(v) debase#1, (j) debasing#1, (n) debasement#2
+48.	(v) profane#1
+49.	(j) depraved#1, (n) depravation#1, (n) depravity#1, (v) deprave#1
+50.	(n) deviant#1
+51.	(v) sully#1
+52.	(v) defile#1, (n) defilement#1
+53.	(j) discredited#2
+54.	(v) disapprove#1#2
+55.	(n) scorn#1, (v) scorn#2, (j) scornful#1
+56.	(v) condemn#1, (n) condemnation#1
+57.	(v) despise#1, (j) despicable#1
+58.	(j) vile#1
+59.	(j) unworthy#3
+60.	(j) worthless#2
+61.	(j) wretched#4
+62.	(v) decry#1
+63.	(v) objurgate#1, (n) objurgation#1
+64.	(v) excoriate#1
+65.	(n) disapprobation#1
+66.	(v) object to
+67.	(j) unacceptable#2#3
+68.	(j) insufferable#1
+69.	(v) discountenance#1#2
+70.	(v) take exception#1
+71.	(v) look askance at
+72.	(v) censure#1, (n) censure#1
+73.	(v) reprimand#1, (n) reprimand#1
+74.	(v) chastise#1
+75.	(v) chasten#1
+76.	(v) call on the carpet#1
+77.	(v) chew out#1
+78.	(v) lambast#2, (v) lambaste#2
+79.	(v) criminate#2
+80.	(v) deprecate#1#2
+81.	(v) denounce#1#2
+82.	(v) disparage#1
+83.	(v) belittle#2
+84.	(v) deplore#1#2, (j) deplorable#3
+85.	(v) find fault#1
+86.	(v) chide#1, (n) chiding
+87.	(v) admonish#3
+88.	(v) stigmatize#1, (v) stigmatise#1, (n) stigma#2
+89.	(n) stain#4
+90.	(v) malign#1, (j) malignant#1
+91.	(v) drag through the mud#1
+92.	(v) badmouth#1
+93.	(j) malefic#1
+94.	(j) malevolent#2
+95.	(v) vilify#1, (n) vilification#2
+96.	(v) revile#1, (n) revilement#1
+97.	(v) take to task#1
+98.	(v) dress down#1
+99.	(v) put down#4
+100.	(v) scold#1, (n) scolding#1
+101.	(v) berate#1
+102.	(j) damned#1, (j) damn#2
+103.	(v) curse#3, (j) cursed#2
+104.	(j) unredeemed#1, (j) unredeemable#1
+105.	(j) irredeemable#1
+106.	(j) blasted#1
+107.	(v) anathemize#1, (v) anathemise#1
+108.	(v) imprecate#1
+109.	(v) maledict#1
+110.	(v) fault#1
+111.	(j) infernal#3
+112.	(j) blased#1
+113.	(v) rail at
+114.	(v) castigate#1
+115.	(n) tongue-lashing#1
+116.	(v) asperse#1, (n) aspersion#1#2
+117.	(n) slur#2
+118.	(n) calumny#2, (v) calumniate#1
+119.	(n) slander#2, (v) slander#1
+120.	(v) smirch#2
+121.	(v) besmirch#1
+122.	(v) sully#3
+123.	(n) defamation#2, (v) defame#1
+124.	(n) denigration#2, (v) denigrate#2
+125.	(j) reprobate#1, (v) reprobate#3, (n) reprobate#1
+126.	(n) remonstrance#1, (n) remonstration#1, (v) remonstrate#1
+127.	(n) expostulation#1
+128.	(n) objection#1
+129.	(j) darned#1
+130.	(j) goddamn#2
+131.	(n) tirade#1
+132.	(n) diatribe#1
+133.	(n) fulmination#1, (v) fulminate#1
+134.	(n) indignity#1
+135.	(n) (v) insult#1
+136.	(v) humiliate#1, (n) humiliation#1
+137.	(v) degrade#2, (n) degrading#1#2, (n) degradation#1
+138.	(v) demean#1, (j) demeaning#1
+139.	(n) embarrassment#1#3, (v) embarrass#1, (j) embarrassed#1
+140.	(n) scandal#1#2, (j) scandalous#1
+141.	(j) shocking#2
+142.	(j) wicked#1#2#5, (n) wickedness#1
+143.	(n) iniquity#2
+144.	(n) (j) evil#1#2#3, (n) evilness#1
+145.	(j) immoral#1#2, (n) immorality#2
+146.	(j) improper#1#2#3
+147.	(j) unlawful#1#4
+148.	(j) profligate#2
+149.	(j) debauched#1
+150.	(j) prodigal#1
+151.	(j) wanton#6
+152.	(n) rascal#1
+153.	(n) rogue#1
+154.	(n) knave#1
+155.	(n) rapscallion#1
+156.	(n) scalawag#2, (n) scallywag#2
+157.	(n) scoundrel#1
+158.	(n) villain#1
+159.	(n) miscreant#1
+160.	(n) sinner#1, (j) sinful#2
+161.	(j) unholy#3
+162.	(n) transgressor#1, (n) transgression#1#3
+163.	(n) evildoer#1, (n) evildoing#1
+164.	(n) wrongdoer#1, (n) wrongdoing#1#2, (j) wrongful#1#2#3
+165.	(n) misconduct#2
+166.	(n) outcast#1
+167.	(n) pariah#1
+168.	(j) derelict#3, (n) dereliction#1#2
+169.	(j) delinquent#2, (n) delinquency#2
+170.	(j) neglectful#2,(n) neglect#3#4#5,(n) negligence#1,(n)neglectfulness#1
+171.	(j) careless#1, (n) carelessness#2
+172.	(j) remiss#1
+173.	(n) heretic#1#2, (j) heretical#1
+174.	(n) apostate#1
+175.	(n) renegade#2
+176.	(n) recreant#2
+177.	(n) turncoat#1
+178.	(j) incorrigible#1
+179.	(j) dissolute#1
+180.	(j) sinister#2
+181.	(j) lurid#1
+182.	(j) horrid#1#2
+183.	(j) horrific#1
+184.	(j) hideous#1
+185.	(j) outrageous#1
+186.	(j) awful#1#3
+187.	(j) atrocious#2
+188.	(j) abominable#2
+189.	(j) dreadful#2
+190.	(j) unspeakable#2
+191.	(n) rancor#1, (n) rancour#1, (j) rancorous#1
+192.	(j) vicious#3
+193.	(n) (v) affront#1
+194.	(v) diss#1
+195.	(j) foul#1
+196.	(j) loathsome#2
+197.	(j) distasteful#2
+198.	(j) abject#1
+199.	(j) low-down#1
+200.	(j) scummy#1
+201.	(j) scurvy#1
+
+
+Joy, Overjoyed, Joyful, Joyous, Joyously, Joyfully
+
+1.	(j) happy#3, (n) happiness#1#2, (r) happily#1
+2.	(n) elation#2, (j) elated#1, (v) elate#1
+3.	(n) high spirits#1, (j) high-spirited#1
+4.	(n) lightness#1
+5.	(n) exultation#1, (v) exult#1, (j) exultant#1, (j) exulting#1
+6.	(n) jubilance#1, (v) jubilate#2, (j) jubilant#1#2, (n) jubilation#1
+7.	(n) levity#1#2
+8.	(n) exhilaration#1, (j) exhilarated#1, (v) exhilarate#1
+9.	(n) excitement#1, (j) excited#1#3
+10.	(j) worked up#1
+11.	(j) aroused#6
+12.	(n) exuberance#1, (v) exuberate#1, (j) exuberant#1
+13.	(j) ebullient#1
+14.	(v) rejoice#1, (j) rejoicing#1
+15.	(v) luxuriate#3
+16.	(v) gladden#1, (j) glad#2, (j) gladsome#1
+17.	(n) delight#1#2, (j) delighted, (j) delightful#1
+18.	(n) pleasure#2, (j) pleasurable#1, (j) pleasant#1
+19.	(n) good fortune#1
+20.	(j) blissful#1, (n) bliss#1, (n) blissfulness#1
+21.	(j) blessed#1
+22.	(j) cheerful#1, (n) cheer#1, (n) cheerfulness#1
+23.	(j) heartened
+24.	(j) contented#1, (n) contentment#1
+25.	(j) euphoric#1, (n) euphoria#1
+26.	(j) beaming#1
+27.	(j) smiling#1
+28.	(j) blithe#2, (r) blithely#1
+29.	(j) lighthearted#1, (n) lightheartedness#1
+30.	(n) insouciance#1
+31.	(j) buoyant#2
+32.	(j) chirpy#2
+33.	(j) perky#1
+34.	(j) chipper#1
+35.	(j) uplifted#1, (v) uplift#1
+36.	(j) expansive#3
+37.	(j) carefree#1
+38.	(v) thrill#4, (j) thrilled#1, (n) thrill#1#2#3
+39.	(v) tickle pink#1
+40.	(v) walk on air#1, (n) walking on air#1
+41.	(v) be on cloud nine#1, (n) cloud nine#1
+42.	(n) seventh heaven#1
+43.	(n) rapture#1#2
+44.	(n) ecstasy#1#2
+45.	(n) glee#1, (n) gleefulness#1, (j) gleeful#1, (r) gleefully#1
+46.	(n) gaiety#1#2
+47.	(n) delectation#1#2
+48.	(n) felicity#2, (j) felicitous#2
+49.	(n) well-being#1
+50.	(n) beatitude#1, (n) beatification#1
+51.	(j) merry#1#2, (n) merriment#1#2, (r) merrily#1
+52.	(n) mirth#1, (n) mirthfulness#1, (j) mirthful#1, (r) mirthfully#1
+53.	(n) hilarity#1, (j) hilarious#1
+54.	(j) uproarious#2
+55.	(n) playfulness#1, (j) playful#1
+56.	(n) enjoyment#1#2, (v) enjoy#1#5, (j) enjoyable#1
+57.	(n) upbeat#1
+58.	(n) eudaemonia#1, (n) eudaimonia#1
+59.	(j) jolly#1, (n) jollity#1, (n) jolliness#1
+60.	(j) jovial#1, (n) joviality#1
+61.	(j) jocund#1, (n) jocundity#1
+62.	(j) jocular#1, (n) jocularity#1
+63.	(n) fun#1, (n) fun-loving, (j) funny#1, (j) fun-filled
+64.	(j) frolicsome#1, (v) frolic#1
+65.	(j) festive#1
+66.	(j) convivial#1, (n) conviviality#1
+67.	(j) rollicking#1
+68.	(j) coltish#1
+69.	(j) sportive#2
+70.	(n) reveling, (v) revel#1#2, (n) revelry#1
+71.	(n) amusement#1#2, (v) amuse#2, (j) amused#1, (j) amusing#2
+72.	(j) comical#1
+73.	(j) joking#1, (r) jokingly#1, (v) (n) joke#1#2
+74.	(j) jesting#1, (r) jestingly#1, (v) jest#1
+75.	(j) jocose#1, (r) jocosely#1
+76.	(j) entertained#1, (v) entertain#1, (n) entertainment#1
+77.	(v) laugh#1, (n) laugh#1#2, (n) laughter#1, (r) laughingly#1
+
+
+Distress, Distressing, Distressful
+
+1.	(n) sadness#1#2, (j) sad#1#2
+2.	(n) hurt#2#3
+3.	(v) suffer#1#3, (n) suffering#1#2#3
+4.	(n) anguish##21, (j) anguished#1
+5.	(n) torment#2, (j) tormented#1
+6.	(n) torture#1, (j) tortured#1, (j) torturous#1, (j) torturing#1
+7.	(n) wound#3, (j) wounded
+8.	(n) pain#2, (j) pained#1
+9.	(j) afflicted#2, (n) affliction#3
+10.	(n) unhappiness#1, (j) unhappy#1#2#4
+11.	(j) dysphoric#1
+12.	(j) infelicitous#2
+13.	(n) sorrow#4, (j) sorrowful#1
+14.	(j) gloomy#1#2#3
+15.	(j) lugubrious#1
+16.	(j) doleful#1, (j) dolorous#1, (j) dolorous#1
+17.	(j) lachrymose#1
+18.	(n) heaviness#2
+19.	(n) melancholy#1
+20.	(n) misery#2, (j) miserable#1
+21.	(j) forlorn#1
+22.	(n) desolation#3
+23.	(j) tearful#2
+24.	(n) depression#4, (j) depressed#3, (j) depressing#1
+25.	(j) despondent#1
+26.	(j) heartsick#1#2
+27.	(j) low spirits#1, (j) low-spirited#1
+28.	(j) cheerless#1
+29.	(j) uncheerful#1
+30.	(j) joyless#1
+31.	(j) downhearted#1
+32.	(j) downcast#2
+33.	(j) crestfallen#1
+34.	(j) chapfallen#1
+35.	(j) chopfallen#1
+36.	(j) deflated#1
+37.	(j) dejected#1, (n) dejection#1
+38.	(j) upset#1
+39.	(j) disquieted#1, (n) disquietude#1
+40.	(j) distraught#1
+41.	(j) overwrought#1
+42.	(j) disturbed#2, (j) disturbing#1
+43.	(j) worried#1#2, (j) worrisome#1, (j) worrying#1
+44.	(j) troubled#1, (j) troubling#1
+45.	(j) perturbed#1, (j) perturbing#1
+46.	(j) flustered#1
+47.	(j) rattled#1
+48.	(j) concerned#1
+49.	(j) disconcerted#1
+50.	(j) disconsolate#2
+51.	(j) discombobulated#1
+52.	(j) dismayed#1, (v) dismay#1
+53.	(j) dispirited#2
+54.	(j) demoralized#1, (j) demoralized#1
+55.	(n) agony#2,(v) agonize#1#2,(v) agonise#1#2,(j) agonizing#1,(j)agonizing#1
+56.	(j) agitated#1, (n) agitation#1
+57.	(j) anxious#2, (n) anxiousness#1, (n) anxiety#1
+58.	(j) nervous#2, (n) nervousness#2
+59.	(j) frantic#1
+60.	(j) frenzied#2
+61.	(v) down in the dumps
+62.	(j) brokenhearted#1
+63.	(j) heartbroken#1
+64.	(j) wretched#3
+65.	(j) despairing, (n) despair#1#2, (v) despair#1
+66.	(j) desperate#6, (n) desperation#1
+67.	(j) apprehensive#2#3, (n) apprehension#1, (n) appreheniveness#1
+68.	(j) skittish#1
+69.	(n) uneasiness#1#5, (j) uneasy#1#3#4
+70.	(n) edginess#1, (j) edgy#1
+71.	(j) restless#3, (n) restlessness#4
+72.	(n) excruciation#1, (j) excruciating#1
+73.	(j) dreary#2
+74.	(j) sulky#3
+75.	(j) hopeless#1#3, (n) hopelessness#1
+76.	(n) (v) dread#1, (j) dread#1, (j) dreadful
+77.	(n) chagrin#1, (j) chagrined#1
+78.	(n) humiliation#2, (j) humiliated#2
+79.	(n) mortification#1, (j) mortified#2
+
+
+Hope#1, Hopeful
+
+1.	(n) anticipation#1, (v) anticipate#5
+2.	(n) expectancy#1, (v) expect#1, (n) expectation#2
+3.	(j) optimistic#1#2, (n) optimism#1#2
+4.	(v) trust#4#5
+5.	(v) desire#2
+6.	(n) wish#1#2, (v) wish#1#2#3#4
+7.	(n) promise#2, (j) promising#1#2
+8.	(n) want#4
+9.	(n) velleity#1
+10.	(v) look#8
+11.	(v) await#1
+12.	(v) look forward#1
+13.	(v) look to#1
+14.	(j) positive#1
+15.	(j) bullish#1
+16.	(j) upbeat#1
+17.	(j) rose-colored#1
+18.	(j) rosy#1
+19.	(j) sanguine#1
+20.	(j) affirmative#2
+21.	(n) faith#2
+22.	(n) confidence#1#2#3, (j) confident#1#2
+23.	(n) assurance#1, (n) assuredness#1
+24.	(n) sureness#1, (j) sure#1#3, (r) surely#1, (r) for sure#1
+25.	(j) certain#2#4, (r) certainly#1, (r) for certain#1
+26.	(n) reassurance#1, (v) reassure#1#2, (j) reassuring#1
+27.	(j) encouraged#1, (n) encouragement#2#3, (j) encouraging#1, (v) encourage#1#2#3
+28.	(j) bucked up#1, (v) buck up#1
+29.	(n) conviction#1
+30.	(n) assumption#7, (v) assume#1
+31.	(n) presumption#1, (v) presume#4
+32.	(n) aspiration#1#2, (v) aspire#1
+33.	(v) draw a bead on#2
+34.	(v) shoot for#1
+35.	(n) ambition#1, (j) ambitious#1
+36.	(n) longing#1
+37.	(v) long for
+38.	(n) craving#1
+39.	(n) yearning#1, (v) yearn#1
+40.	(v) hunger for
+41.	(v) dream of
+42.	(v) heart set on
+43.	(v) bent upon
+44.	(v) fancy#1#2
+45.	(v) envision#1
+46.	(v) picture#1
+47.	(n) hankering#1, (v) hanker#1
+48.	(n) yen#1
+49.	(v) count on#1, (v) counting on
+50.	(n) chance#1#5
+51.	(j) lucky#3
+52.	(n) opportunity#1
+53.	(n) possibility#1, (n) (j) possible#1
+54.	(n) prospect#1
+55.	(n) saving grace#2
+56.	(n) bright side#1
+57.	(n) silver lining#1
+58.	(v) take heart#1
+59.	(j) favorable#3, (j) favourable#3
+60.	(j) propitious#1
+61.	(j) auspicious#1
+62.	(v) augurs well
+63.	(v) bodes well
+64.	(j) heartening#1, (v) hearten#1, (j) heartened
+65.	(n) good omen
+66.	(v) intend#1
+67.	(v) facilitate#1, (n) facilitation#1#3
+68.	(v) alleviate#2, (n) alleviation#1
+69.	(v) promote#1, (n) promotion#3
+70.	(v) rance#1#4#7, (n) rancement#1#2#3
+71.	(v) further#1, (n) furtherance#1
+72.	(v) foster#1
+73.	(n) progress#1#2, (n) progression#3, (v) progress#1#2#3
+74.	(n) forward motion#1
+75.	(v) come along#2
+76.	(v) shape up#1
+77.	(v) build up#2
+78.	(n) forward movement
+79.	(v) boost#3
+
+
+Satisfaction, Satisfied, Satisfactory
+
+1.	(n) pride#2, (j) proud#1, (j) prideful#2
+2.	(n) complacency#1, (j) complacent#1
+3.	(n) fulfillment#1, (v) fulfill#2#3
+4.	(n) gratification#1
+5.	(n) contentment#1, (v) content#1, (j) contented#1
+6.	(v) meet#4
+7.	(n) comfort#5, (j) comfortable#2#3#4
+8.	(j) well-off#1
+9.	(j) well-situated#1
+10.	(j) pleased#2
+11.	(j) smug#1
+12.	(v) boast#1
+13.	(v) tout#2
+14.	(v) swash#3
+15.	(v) brag#1
+16.	(v) (n) vaunt#1
+17.	(v) show off#1
+18.	(v) flaunt#1
+19.	(v) preen#2
+20.	(v) triumph#4, (j) triumphant#2
+21.	(j) jubilant#1, (n) jubilation#1#2#3, (n) jubilance#1, (v) jubilate#1#2
+22.	(v) celebrate#2, (n) celebration#1, (j) celebrant#1
+23.	(j) rejoicing#1, (v) rejoice#2
+24.	(j) victorious#2
+25.	(j) fortunate#1#2
+26.	(n) exultation#1#2, (v) exult#1, (j) exultant#1, (n) exulting#1
+27.	(j) adequate#2
+28.	(j) acceptable#1#3#4
+29.	(j) sufficient#1
+30.	(j) suitable#2
+31.	(n) good luck#2
+32.	(n) fluke#1
+33.	(n) good fortune#2
+34.	(n) luckiness#1, (j) lucky#2
+
+Disappointment, Disappointed, Disappoint
+
+1.	(n) letdown#1
+2.	(n) frustration#1, (j) frustrated#1
+3.	(n) defeat#2, (n) defeatist#1, (n) defeated#1#2
+4.	(n) dissatisfaction#1
+5.	(j) thwarted#1
+6.	(j) foiled#1
+7.	(j) spoiled#1
+8.	(j) baffled#1
+9.	(n) discomfited#1
+10.	(j) upset#1
+11.	(j) perturbed#1
+12.	(j) troubled#1, (j) troublesome#1
+13.	(j) disquieted#1
+14.	(j) distressed#4
+15.	(j) disturbed#2
+16.	(j) worried#1
+17.	(j) disheartened#1
+18.	(j) discouraged#1
+19.	(j) dismayed#1, (v) dismay#1
+20.	(j) dejected#1, (n) dejection#1
+21.	(j) dispirited#1
+22.	(j) demoralized#1, (j) demoralized#1
+23.	(n) lamentation#1, (v) (n) lament#1
+24.	(n) regret#1, (v) regret#1#2, (j) regrettable#1
+25.	(n) failure#1#2#3, (v) fail#2, (j) failed
+26.	(n) disillusionment#1, (j) disillusioned#1
+27.	(n) disenchantment#1, (j) disenchanted#1
+28.	(n) washout#3
+29.	(n) dud#1
+30.	(n) fiasco#1
+31.	(n) debacle#1
+32.	(n) disaster#2, (j) disastrous#1
+33.	(n) setback#1
+34.	(n) loss#3#4
+35.	(n) deprivation#2
+36.	(n) flop#1
+37.	(j) thwarted#1
+38.	(j) brokenhearted#1, (n) brokenheartedness#1
+39.	(j) heartbroken#1, (n) heartbreak
+40.	(n) heartache#1
+41.	(j) heartsick#1
+42.	(j) crushed#2
+43.	(j) humbled#1
+44.	(j) mournful#2, (v) mourn#1, (n) mourning#1
+45.	(n) bereavement#1, (j) bereaved#1
+46.	(j) unfortunate#1
+47.	(n) misfortune#1#2, (j) misfortunate#1
+48.	(n) bad luck#1#3
+49.	(n) tough luck#1
+50.	(j) grievous#2
+51.	(j) calamitous#1, (n) calamity#1
+52.	(j) fatal#3
+53.	(n) catastrophe#1, (j) catastrophic#1
+54.	(j) ruinous#1
+55.	(n) tragedy#1, (j) tragic#1#2
+56.	(n) cataclysm#2, (j) cataclysmic#1
+57.	(j) dismal#1
+58.	(j) grim#5#6
+59.	(j) woeful#1
+60.	(n) grief#1#2, (j) grief-stricken#1
+61.	(j) too bad#1
+62.	(v) go wrong#1
+63.	(v) miscarry#1, (n) miscarriage#1
+64.	(n) undoing#1
+65.	(n) misfire#2
+66.	(n) collapse#1
+67.	(j) unfulfilled#1
+68.	(j) unrealized#1, (j) unrealized#1
+69.	(n) fizzle#2
+70.	(j) botched#1
+71.	(j) bungled#1
+72.	(j) awry#1
+73.	(j) amiss#1
+74.	(n) prostration#1
+
+Remorse, Remorseful
+
+1.	(n) regret#1
+2.	(n) compunction#1
+3.	(n) self-reproach#1
+4.	(n) guilt#2
+5.	(n) repentance#1, (j) repentant#1, (v) repent#2
+6.	(n) penitence#1, (j) penitent#1
+7.	(n) penance#1
+8.	(n) shame#1#2#3, (j) shamed#1
+9.	(j) ashamed#1
+10.	(j) hangdog#1
+11.	(j) shamefaced#3
+12.	(n) rue#3, (n) ruefulness#1, (j) rueful#1
+13.	(j) contrite#1, (n) contrition#1
+14.	(n) attrition#3
+15.	(n) embarrassment#1#3, (v) embarrass#1, (j) embarrassed#1
+16.	(j) sheepish#2
+17.	(j) abashed#1
+18.	(j) chagrined#1, (n) chagrin#1, (j) chagrined#1
+19.	(n) humiliation#2, (j) humiliated#2
+20.	(n) mortification#1, (j) mortified#2
+21.	(n) sorrow#2#4, (j) sorrowful#1
+22.	(n) ignominy#1, (j) ignominious#1
+23.	(n) (v) dishonor#1, (n) (v) dishonour#1, (j) dishonorable#1
+24.	(n) disgrace#1, (j) disgraceful#1#2, (j) disgraceful#1#2, (j) disgraced#1
+25.	(v) attaint#1
+26.	(j) discomposed#1
+27.	(n) self-reproof#1
+28.	(n) qualm#1
+29.	(n) misgiving#1
+30.	(n) second thought#1
+
+Gloating, Gloat
+
+1.	(n) glee#2
+2.	(v) crow over
+3.	(n) comeuppance#1
+4.	(n) just deserts#1
+5.	(n) poetic justice#1
+
+Pity, Pitiable, Pitiful, Piteous, Pitied
+
+1.	(n) commiseration#1#2, (v) commiserate#1
+2.	(n) ruth#3
+3.	(n) compassion#1#2, (j) compassionate#1, (n) compassionateness#1
+4.	(v) feel for#1, (v) feel sorry for
+5.	(v) condole with#1
+6.	(n) condolence#1
+7.	(v) sympathize#3, (v) sympathise#2, (n) sympathy#1#2, (j) sympathetic#3
+8.	(v) empathize#1, (v) empathise#1, (n) empathy#1, (j) empathetic#1
+9.	(j) sad#3
+10.	(j) sorry#2
+11.	(n) mercy#1#3, (n) merciful#1, (n) mercifulness#1#3
+12.	(n) charity#2, (j) charitable#2#3
+13.	(n) clemency#2
+14.	(n) leniency#1, (j) lenient#3, (n) lenience#1, (n) lenity#1
+15.	(n) softheartedness#1, (j) softhearted#1
+16.	(n) tenderness#5
+17.	(n) indulgence#2#3, (j) indulgent#1#2, (v) indulge#1#2, (j) indulging#1
+18.	(n) pampering#1, (v) pamper#1, (j) pampered
+19.	(n) forbearance#1, (j) forbearing#1
+20.	(n) longanimity#1, (j) longanimous#1
+21.	(n) magnanimity#1, (j) magnanimous#2
+22.	(v) (n) lament#1, (j) lamentable#1, (n) lamentation#1#2
+23.	(j) pathetic#1, (n) pathos#2
+24.	(j) heartrending#1
+25.	(j) heartbreaking#1
+26.	(j) grievous#2
+27.	(j) misfortunate#1, (n) misfortunate#1#2
+28.	(j) hapless#1
+29.	(j) wretched#5
+30.	(j) mournful#1#2
+31.	(j) plaintive#1
+
+
+Hate, Hated
+
+1.	(n) abhorrence#1, (v) abhor#1, (j) abhorrent#1
+2.	(n) detestation#1, (v) detest#1, (j) detestable#1
+3.	(j) repugnant#1, (n) repugnance#1
+4.	(j) repulsive#1, (n) repulsion#2
+5.	(n) revulsion#1
+6.	(n) execration#1, (j) execrable#2
+7.	(n) loathing#1, (v) loathe#1, (j) loathsome#1#2
+8.	(j) offensive#7, (j) offending#1
+9.	(j) sickening#1, (v) sicken#1
+10.	(j) vile#1#2
+11.	(j) disgusting#1, (v) disgust#2, (n) disgust#1
+12.	(j) repellent#2, (j) repellant#2, (j) repelling#1, (v) repel#5
+13.	(j) revolting#1
+14.	(j) wicked#5
+15.	(j) yucky#1
+16.	(n) abomination#2, (j) abominable#1
+17.	(j) cursed#1
+18.	(n) odium#1, (j) odious#2
+19.	(n) misanthropy#1#2
+20.	(n) misogyny#1, (j) misogynous#1, (j) misogynistic#1
+21.	(v) despise#1, (n) despisal#1, (j) despised#1, (j) despicable#1
+22.	(n) contempt#1#3, (j) contemptible#1, (j) contemptuous#1
+23.	(n) scorn#1, (j) scorned#1, (j) scornful#1
+24.	(n) disdain#1, (j) disdainful#1
+25.	(n) despite#1
+26.	(n) antipathy#1
+27.	(n) distaste#1, (j) distasteful#2
+28.	(n) spitefulness#1, (n) spite#1, (j) spiteful#1
+29.	(j) vindictive#2, (n) vindictiveness#1
+30.	(j) wretched#4
+31.	(j) worthless#2
+32.	(v) (n) dislike#1#2, (j) disliked#1, (j) dislikable#1
+33.	(n) disfavor#2, (n) disfavour#1
+34.	(n) aversion#1, (j) aversive#1
+35.	(n) enmity#1
+36.	(n) rancor#1, rancour#1
+37.	(n) animosity#1
+38.	(n) antagonism#1, (v) antagonize#1#2, (v) antagonize#1#2
+39.	(n) hostility#2, (j) hostile#1
+
+Happy-For
+
+1.	(j) glad#1#2, (j) gladdened#1
+2.	(n)encouragement#1#2, (v) encourage#2, (j) encouraging#1
+
+
+Resentment, Resent, Resentful, Resentfulness
+
+1.	(n) bitterness#1, (j) bitter, (j) embittered
+2.	(v) begrudge#2
+3.	(j) indignant#1
+4.	(v) stew#2
+5.	(n) (v) grudge#1
+6.	(v) hold against
+7.	(v) (n) envy#1#2, (j) envious#1, (n) enviousness#1
+8.	(n) invidia#1, (j) invidious#1
+9.	(j) jealous#1, (n) jealousy, (j) overjealous#1
+10.	(j) green-eyed#1
+11.	(j) covetous#1, (v) covet#1, (n) covetousness#2
+
+
+Pride, Proud, Prideful
+
+1.	(j) pleased#2
+2.	(n) satisfaction#1, (j) satisfied#1
+3.	(n) fulfillment#1, (v) fulfill#2#3
+4.	(n) contentment#1, (v) content#1, (j) contented#1
+5.	(v) boast#1, (j) boastful#1, (n) boastfulness#1
+6.	(v) tout#2
+7.	(v) brag#1, (n) braggart#1, (j) bragging#1
+8.	(v) (n) vaunt#1, (j) vaunted
+9.	(v) show off#1
+10.	(v) flaunt#1
+11.	(v) preen#2
+12.	(v) triumph#4, (j) triumphant#2
+13.	(j) jubilant#1, (n) jubilation#1#2#3, (n) jubilance#1, (v) jubilate#1#2
+14.	(v) celebrate#2, (n) celebration#1, (j) celebrant#1
+15.	(j) rejoicing#1, (v) rejoice#2
+16.	(j) victorious#2
+17.	(n) exultation#1#2, (v) exult#1, (j) exultant#1, (n) exulting#1
+18.	(n) accomplishment#1#2, (v) accomplish#2, (j) accomplished#1
+19.	(n) achievement#1, (v) achieve#1
+20.	(n) attainment#3, (v) attain#1
+
+
+Shame, Shameful
+
+1.	(v) disgrace#1, (j) disgraceful#1#2
+2.	(v) dishonor#1, (v) dishonour#1, (j) dishonorable#1, (j) dishonourable#1
+3.	(v) attaint#1
+4.	(n) ignominy#1, (j) ignominious#1
+5.	(n) self-disgust#1
+6.	(n) self-hatred#1
+7.	(n) self-loathing
+8.	(n) embarrassment#1#3, (v) embarrass#1, (j) embarrassed#1
+9.	(j) inglorious#1
+
+
+Love, Loving, Lovingness
+
+1.	(n) passion#1#3#6, (j) passionate#1
+2.	(v) enjoy#1#3, (n) enjoyment#2, (j) enjoyable#1
+3.	(v) like#2#3, (j) likable#1#2, (j) likeable#1#2, (n) liking#1, (j) liked#1
+4.	(v) care for#1
+5.	(v) savor#1, (v) savour#4
+6.	(n) attraction#3, (n) attractiveness#1
+7.	(j) appealing#2, (v) appeal#3, (n) appeal#2
+8.	(n) charm#1
+9.	(n) ardor#1#2, (n) ardour#1#2
+10.	(n) élan#1
+11.	(n) zeal#1, (j) zealous#1, (n) zealot#2, (j) overzealous#1, (n) zealotry#1
+12.	(n) drumbeater#1
+13.	(j) avid#2
+14.	(n) fanatic#1, (j) fanatical#1, (n) fanaticism#1
+15.	(n) infatuation#1#2#3, (j) infatuated#1
+16.	(j) enamored#1
+17.	(j) smitten#2
+18.	(j) soft on#1
+19.	(j) taken with#1
+20.	(n) crush#3
+21.	(n) fancy#3
+22.	(n) idolization#1, (n) idolization#1, (v) idolize#1, (v) idolize#1
+23.	(v) revere#1, (j) reverent#1#2, (n) reverence#1
+24.	(n) adoration#1#2#3, (v) adore#1, (j) adoring#1#2
+25.	(j) doting#1
+26.	(n) veneration#1, (v) venerate#1
+27.	(n) devotion#1#2#3, (j) devoted#1#2, (n) devotedness#1
+28.	(n) fondness#1#2#3, (j) fond#2#3
+29.	(n) affection#1, affectionateness#1#2
+30.	(n) tenderness#4
+31.	(v) worship#1, (n) worship#2
+32.	(n) affinity#7
+33.	(n) predilection#1#2
+34.	(v) favor#1, (v) favour#3, (j) favored#1, (j) favorite#2, (j) favourite#2
+35.	(n) preference#2, (v) prefer#1#3, (j) preferred#2
+36.	(n) attachment#1, (j) attached#4
+37.	(n) penchant#1
+38.	(n) partiality#1, (j) partial#3
+39.	(v) esteem#1, (j) esteemed#1
+40.	(v) treasure#2, (j) treasured#1
+41.	(j) wanted#2
+42.	(j) precious#1
+43.	(v) cherish#1, (j) cherished#1
+44.	(v) hold dear#1
+45.	(n) desire#3, (v) desire#3, (j) desirable#1, (j) desired#1
+46.	(j) coveted#1, (j) covetous#1, (v) covet#1, (n) covetousness#2
+
+
+Fear-Confirmed
+
+1.	(n) worst fear
+
+
+Relief, Relieved
+
+1.	(n) alleviation#1#2, (v) alleviate#1, (j) alleviated#1
+2.	(n) assuagement#1, (v) assuage#3, (j) assuaged
+3.	(n) moderation#2, (v) moderate#3#4#5#6, (j) moderated
+4.	(n) easing#1#2, (v) ease#2, (n) easement#2
+5.	(v) palliate#1#2, (n) palliation#1#2
+6.	(v) extenuation#2, (v) extenuate#1
+7.	(n) mitigation#1, (v) mitigate#1#2, (j) mitigated#1
+8.	(v) mollify#1, (n) mollification#1
+9.	(v) pacify#1, (n) pacification#1, (j) pacified
+10.	(v) ameliorate#1#2, (n) amelioration#1, (j) ameliorated
+11.	(v) improve#1#2, (n) improvement, (j) improved#1#2
+12.	(n) betterment#3
+13.	(v) conciliate#1, conciliation#1#3
+14.	(v) appease#1, (n) appeasement#1, (j) appeased
+15.	(v) contain#3#6, (j) contained#1
+16.	(v) check#4
+17.	(v) curb#1
+18.	(v) soften#5
+19.	(v) tone down#2
+20.	(n) placation#1, (v) placate#1
+21.	(n) propitiation#1, (v) propitiate#1
+22.	(v) quell#2
+23.	(v) stay#11
+
+
+Gratification, Gratified
+
+1.	(n) satisfaction#2, (j) satisfied#1, (v) satisfy#1#2#3
+2.	(n) pleasure#2, (j) pleasant#1
+3.	(n) enjoyment#1#2, (v) enjoy#1#5, (j) enjoyable#1
+4.	(n) solace#1#2
+5.	(n) consolation#1, (j) consoled
+6.	(n) comfort#3, (j) comforted#1, (j) comfortable#1#2
+7.	(n) joy#2, (j) joyful#1#2
+8.	(v) relish#1
+9.	(j) happy#3, (n) happiness#1#2, (r) happily#1
+10.	(n) elation#2, (j) elated#1, (v) elate#1
+11.	(n) exultation#1, (v) exult#1, (j) exultant#1, (j) exulting#1
+12.	(n) jubilance#1, (v) jubilate#2, (j) jubilant#1#2, (n) jubilation#1
+13.	(n) exhilaration#1, (j) exhilarated#1, (v) exhilarate#1
+14.	(n) exuberance#1, (v) exuberate#1, (j) exuberant#1
+15.	(j) ebullient#1
+16.	(v) rejoice#1, (j) rejoicing#1
+17.	(v) gladden#1, (j) glad#2, (j) gladsome#1
+18.	(n) delight#1#2, (j) delighted, (j) delightful#1
+19.	(n) good fortune#1
+20.	(j) blissful#1, (n) bliss#1, (n) blissfulness#1
+21.	(j) blessed#1
+22.	(j) heartened
+23.	(j) contented#1, (n) contentment#1
+24.	(j) euphoric#1, (n) euphoria#1
+25.	(j) beaming#1
+26.	(j) uplifted#1, (v) uplift#1
+27.	(j) expansive#3
+28.	(v) thrill#4, (j) thrilled#1, (n) thrill#1#2#3
+29.	(v) tickle pink#1
+30.	(v) walk on air#1, (n) walking on air#1
+31.	(v) be on cloud nine#1, (n) cloud nine#1
+32.	(n) seventh heaven#1
+33.	(n) rapture#1#2
+34.	(n) ecstasy#1#2
+35.	(n) glee#1, (n) gleefulness#1, (j) gleeful#1, (r) gleefully#1
+36.	(n) gaiety#1#2
+37.	(n) felicity#2, (j) felicitous#2
+38.	(n) well-being#1
+39.	(n) beatitude#1, (n) beatification#1
+40.	(n) upbeat#1
+41.	(j) convivial#1, (n) conviviality#1
+42.	(n) reveling, (v) revel#1#2, (n) revelry#1
+43.	(n) amusement#1#2, (v) amuse#2, (j) amused#1, (j) amusing#2
+
+
+Gratitude, Grateful, Gratefulness, Gratefully
+
+1.	(n) appreciation#3, (j) appreciative#1#2, (v) appreciate#1,(n)appreciativeness#1
+2.	(n) thankfulness#1, (j) thankful#1, (r) thankfully#1#2,(v) thank#1,(n) thanks#1
+3.	(n) acknowledgement#1, (n) acknowledgment#1, (v) acknowledged#4
+4.	(n) recognition#1, (v) recognize#7, (v) recognize#5, (j) recognized#1
+5.	(v) accept#4, (j) accepted#1
+6.	(j) obliged#1, (n) obligation#3
+7.	(j) beholden#1
+8.	(j) indebted#1, (n) indebtedness#2
