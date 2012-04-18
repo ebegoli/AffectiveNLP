@@ -3,7 +3,7 @@
 __author__ = 'Edmon Begoli'
 import nltk
 from urllib import urlopen
-from emotions import parrot_primary, pretty
+from emotions import parrot_primary
 from nltk.corpus import wordnet as wn
 
 #url = "http://www.gutenberg.org/files/2554/2554.txt"
@@ -21,6 +21,15 @@ def extract_entity_names(t):
             for child in t:
                 entity_names.extend(extract_entity_names(child))
     return entity_names
+
+def pos_sentences( raw ):    
+    """ Segments the raw text into sentences, tokenizes them and 
+        and assigns to each a POS tag
+    """    
+    sentences = nltk.sent_tokenize(raw)
+    tokenized_sentences = [nltk.word_tokenize(sentence) for sentence in sentences]
+    tagged_sentences = [nltk.pos_tag(sentence) for sentence in tokenized_sentences]
+    return tagged_sentences    
 
 def extract_chunked_sentences( raw ):
     """

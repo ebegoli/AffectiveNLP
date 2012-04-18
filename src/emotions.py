@@ -8,7 +8,10 @@ secondary = {}
 
 from nltk.corpus import wordnet as wn
 from io import FileIO
-from nltk import SnowballStemmer 
+from nltk import SnowballStemmer
+from conceptnet import lookup_token
+
+
 
 #For love
 secondary['affection'] = ('adoration', 'affection', 'love', 'fondness', 'liking'
@@ -81,7 +84,7 @@ secondary['nervousness'] = ( 'anxiety', 'nervousness', 'tenseness', 'uneasiness'
 
 parrot_primary['fear'] = dict( (i,secondary[i]) for i in ('fear', 'nervousness') )
 
-def get_synsets(d, indent=0):
+def write_synsets(d, indent=0):
     ''' Function queries the 
     '''
     with open("parrot_synsets.txt", "w") as f:
@@ -156,6 +159,7 @@ def pretty_print( d, indent=0 ):
 def is_emotion( word, casesensitive=False ):
     ''' Looks up a word in the lists of emotions '''
 
+    print lookup_token( "affection" )
     if casesensitive == False:
       word = word.lower()
 
@@ -183,6 +187,7 @@ def main():
     print is_emotion( "affection" )
     print is_emotion( "Affection" ) 
     print is_emotion( "haha" )
+
 
 if __name__ == "__main__":
     main()    

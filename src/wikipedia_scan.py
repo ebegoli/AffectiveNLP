@@ -12,6 +12,3 @@ raw = urlopen(url).read()
 
 tokens = nltk.word_tokenize( raw )
 
-
-
-"http://en.wikipedia.org/wiki/Dislike"

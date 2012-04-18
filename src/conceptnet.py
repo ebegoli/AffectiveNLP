@@ -35,6 +35,18 @@ def lookup_parrot( raw ):
         # convert to a native python object
         (true, false, null) = (True, False, None)
         profiles = eval(json)
+
+def lookup_token( token ):
+
+    url = "http://conceptnet5.media.mit.edu/data/concept/en/" + token
+    json = urlopen(url).read()
+    print json
+
+    # convert to a native python object
+    (true, false, null) = (True, False, None)
+    profiles = eval(json)
+
+    return profiles        
         
 def main():
     pass        
