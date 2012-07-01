@@ -6,11 +6,12 @@ __author__ = 'Edmon Begoli'
 parrot_primary = {}
 secondary = {}
 
+
 from nltk.corpus import wordnet as wn
 from io import FileIO
 from nltk import SnowballStemmer
 from conceptnet import lookup_token
-
+from json import JSONEncoder, dumps, dump, load
 
 
 #For love
@@ -190,6 +191,10 @@ def main():
 
 
 if __name__ == "__main__":
-    main()    
-    
-    
+    with open( '../data/parrot.json','w' ) as wr:
+      js = dumps( parrot_primary )
+      wr.write( js )
+      #dumps( wr, JSONEncoder().encode( parrot_primary ) )
+    with open( '../data/parrot.json' ) as rd:
+      js = load( rd )
+      print js

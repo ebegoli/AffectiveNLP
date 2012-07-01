@@ -1,5 +1,6 @@
 E Begoli, 3/2012
 
-This project is result of my research in natural language processing and computational linguistics.
+This project explores the occurrence of words with affective meaning 
+in human generated text.
 
-It uses NTLK, Python, MongoDB and Neo4J. 
+Packages used: NTLK, Python, MongoDB and Neo4J. 

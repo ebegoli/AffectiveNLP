@@ -1,0 +1,1016 @@
+total #primary:6
+primary: love(# of secondary:3 # of synsets: 10)
+	 Synset('love.n.02')-any object of warm affection or devotion; 
+	 Synset('love.n.01')-a strong positive emotion of regard and affection
+	 Synset('love.n.05')-a score of zero in tennis or squash
+	 Synset('beloved.n.01')-a beloved person; used as terms of endearment
+	 Synset('love.n.04')-a deep feeling of sexual desire and attraction
+	 Synset('sexual_love.n.02')-sexual activities (often including sexual intercourse) between two people
+	 Synset('love.v.02')-get pleasure from
+	 Synset('love.v.01')-have a great affection or liking for
+	 Synset('love.v.03')-be enamored or in love with
+	 Synset('sleep_together.v.01')-have sexual intercourse with
+	 
+		secondary:lust (# of tertiary:5 # of synsets:3)
+		 Synset('lecherousness.n.01')-a strong sexual desire
+		 Synset('lust.n.02')-self-indulgent sexual desire (personified as one of the deadly sins)
+		 Synset('crave.v.01')-have a craving, appetite, or great desire for
+		 
+			tertiary: arousal(# of synsets: 4)
+			 Synset('arousal.n.01')-the act of arousing
+			 Synset('arousal.n.02')-a state of heightened physiological activity
+			 Synset('arousal.n.03')-awakening from sleep
+			 Synset('foreplay.n.01')-mutual sexual fondling prior to sexual intercourse
+			 
+			tertiary: desire(# of synsets: 6)
+			 Synset('desire.n.02')-an inclination to want things
+			 Synset('desire.n.01')-the feeling that accompanies an unsatisfied state
+			 Synset('desire.n.03')-something that is desired
+			 Synset('hope.v.01')-expect and wish
+			 Synset('desire.v.01')-feel or have a desire for; want strongly
+			 Synset('desire.v.03')-express a desire for
+			 >>> cycles to parent set([Synset('crave.v.01'), Synset('lecherousness.n.01'), Synset('lust.n.02')])
+			tertiary: lust(# of synsets: 3)
+			 Synset('lecherousness.n.01')-a strong sexual desire
+			 Synset('lust.n.02')-self-indulgent sexual desire (personified as one of the deadly sins)
+			 Synset('crave.v.01')-have a craving, appetite, or great desire for
+			 >>> cycles to grandparent set([Synset('love.n.02')])
+			tertiary: passion(# of synsets: 7)
+			 Synset('love.n.02')-any object of warm affection or devotion; 
+			 Synset('passion.n.01')-a strong feeling or emotion
+			 Synset('heat.n.04')-the trait of being intensely emotional
+			 Synset('rage.n.03')-something that is desired intensely
+			 Synset('mania.n.01')-an irrational but irresistible motive for a belief or action
+			 Synset('passion.n.05')-a feeling of strong sexual desire
+			 Synset('passion.n.07')-the suffering of Jesus at the Crucifixion
+			 
+			tertiary: infatuation(# of synsets: 3)
+			 Synset('infatuation.n.01')-a foolish and usually extravagant passion or love or admiration
+			 Synset('puppy_love.n.01')-temporary love of an adolescent
+			 Synset('infatuation.n.03')-an object of extravagant short-lived passion
+			 
+		secondary:longing (# of tertiary:1 # of synsets:2)
+		 Synset('longing.n.01')-prolonged unfulfilled desire or need
+		 Synset('hanker.v.01')-desire strongly or persistently
+		 >>> cycles to parent set([Synset('longing.n.01'), Synset('hanker.v.01')])
+			tertiary: longing(# of synsets: 2)
+			 Synset('longing.n.01')-prolonged unfulfilled desire or need
+			 Synset('hanker.v.01')-desire strongly or persistently
+			 
+		secondary:affection (# of tertiary:10 # of synsets:1)
+		 Synset('affection.n.01')-a positive feeling of liking
+		 
+			tertiary: adoration(# of synsets: 3)
+			 Synset('worship.n.02')-a feeling of profound love and admiration
+			 Synset('adoration.n.02')-the act of admiring strongly
+			 Synset('adoration.n.03')-the worship given to God alone
+			 >>> cycles to parent set([Synset('affection.n.01')])
+			tertiary: affection(# of synsets: 1)
+			 Synset('affection.n.01')-a positive feeling of liking
+			 >>> cycles to grandparent set([Synset('beloved.n.01'), Synset('love.v.02'), Synset('love.v.01'), Synset('sexual_love.n.02'), Synset('sleep_together.v.01'), Synset('love.v.03'), Synset('love.n.02'), Synset('love.n.01'), Synset('love.n.05'), Synset('love.n.04')])
+			tertiary: love(# of synsets: 10)
+			 Synset('love.n.02')-any object of warm affection or devotion; 
+			 Synset('love.n.01')-a strong positive emotion of regard and affection
+			 Synset('love.n.05')-a score of zero in tennis or squash
+			 Synset('beloved.n.01')-a beloved person; used as terms of endearment
+			 Synset('love.n.04')-a deep feeling of sexual desire and attraction
+			 Synset('sexual_love.n.02')-sexual activities (often including sexual intercourse) between two people
+			 Synset('love.v.02')-get pleasure from
+			 Synset('love.v.01')-have a great affection or liking for
+			 Synset('love.v.03')-be enamored or in love with
+			 Synset('sleep_together.v.01')-have sexual intercourse with
+			 >>> cycles to parent set([Synset('affection.n.01')])
+			tertiary: fondness(# of synsets: 3)
+			 Synset('affection.n.01')-a positive feeling of liking
+			 Synset('fondness.n.01')-a predisposition to like something
+			 Synset('affectionateness.n.02')-a quality proceeding from feelings of affection or love
+			 
+			tertiary: liking(# of synsets: 6)
+			 Synset('like.v.03')-be fond of
+			 Synset('liking.n.01')-a feeling of pleasure and enjoyment
+			 Synset('wish.v.02')-prefer or wish to do something
+			 Synset('like.v.02')-find enjoyable or agreeable
+			 Synset('like.v.04')-feel about or towards; consider, evaluate, or regard
+			 Synset('like.v.05')-want to have
+			 
+			tertiary: attraction(# of synsets: 5)
+			 Synset('attraction.n.01')-the force by which one object attracts another
+			 Synset('attraction.n.02')-an entertainment that is offered to the public
+			 Synset('attraction.n.03')-the quality of arousing interest; being attractive or something that attracts
+			 Synset('attraction.n.04')-a characteristic that provides pleasure and attracts
+			 Synset('drawing_card.n.01')-an entertainer who attracts large audiences
+			 
+			tertiary: caring(# of synsets: 7)
+			 Synset('wish.v.02')-prefer or wish to do something
+			 Synset('lovingness.n.01')-a loving feeling
+			 Synset('care.v.01')-feel concern or interest
+			 Synset('care.v.02')-provide care for
+			 Synset('manage.v.02')-be in charge of, act on, or dispose of
+			 Synset('worry.v.02')-be concerned with
+			 Synset('caring.s.01')-feeling and exhibiting concern and empathy for others
+			 >>> cycles to parent set([Synset('affection.n.01')])
+			tertiary: tenderness(# of synsets: 5)
+			 Synset('affection.n.01')-a positive feeling of liking
+			 Synset('tenderness.n.01')-a tendency to express warm and affectionate feeling
+			 Synset('tenderness.n.02')-a pain that is felt (as when the area is touched)
+			 Synset('tenderness.n.03')-warm compassionate feelings
+			 Synset('softheartedness.n.01')-a feeling of concern for the welfare of someone (especially someone defenseless)
+			 
+			tertiary: compassion(# of synsets: 2)
+			 Synset('compassion.n.01')-a deep awareness of and sympathy for another's suffering
+			 Synset('compassion.n.02')-the humane quality of understanding the suffering of others and wanting to do something about it
+			 
+			tertiary: sentimentality(# of synsets: 2)
+			 Synset('mawkishness.n.02')-falsely emotional in a maudlin way
+			 Synset('sentimentality.n.02')-extravagant or affected feeling or emotion
+			 
+primary: joy(# of secondary:7 # of synsets: 4)
+	 Synset('joy.n.01')-the emotion of great happiness
+	 Synset('joy.n.02')-something or someone that provides a source of happiness
+	 Synset('rejoice.v.01')-feel happiness or joy
+	 Synset('gladden.v.01')-make glad or happy
+	 
+		secondary:enthrallment (# of tertiary:2 # of synsets:1)
+		 Synset('captivation.n.02')-a feeling of great liking for something wonderful and unusual
+		 >>> cycles to parent set([Synset('captivation.n.02')])
+			tertiary: enthrallment(# of synsets: 1)
+			 Synset('captivation.n.02')-a feeling of great liking for something wonderful and unusual
+			 
+			tertiary: rapture(# of synsets: 2)
+			 Synset('ecstasy.n.01')-a state of being carried away by overwhelming emotion
+			 Synset('ecstasy.n.02')-a state of elated bliss
+			 
+		secondary:zest (# of tertiary:6 # of synsets:3)
+		 Synset('gusto.n.01')-vigorous and enthusiastic enjoyment
+		 Synset('nip.n.05')-a tart spicy quality
+		 Synset('zest.v.01')-add herbs or spices to
+		 
+			tertiary: enthusiasm(# of synsets: 3)
+			 Synset('enthusiasm.n.01')-a feeling of excitement
+			 Synset('exuberance.n.02')-overflowing with eager enjoyment or approval
+			 Synset('enthusiasm.n.03')-a lively interest
+			 
+			tertiary: zeal(# of synsets: 3)
+			 Synset('ardor.n.01')-a feeling of strong eagerness (usually in favor of a person or cause)
+			 Synset('zeal.n.02')-excessive fervor to do something or accomplish some end
+			 Synset('readiness.n.02')-prompt willingness
+			 >>> cycles to parent set([Synset('nip.n.05'), Synset('gusto.n.01'), Synset('zest.v.01')])
+			tertiary: zest(# of synsets: 3)
+			 Synset('gusto.n.01')-vigorous and enthusiastic enjoyment
+			 Synset('nip.n.05')-a tart spicy quality
+			 Synset('zest.v.01')-add herbs or spices to
+			 
+			tertiary: excitement(# of synsets: 4)
+			 Synset('exhilaration.n.01')-the feeling of lively and cheerful joy
+			 Synset('agitation.n.04')-disturbance usually in protest
+			 Synset('excitement.n.02')-the state of being emotionally aroused and worked up
+			 Synset('excitation.n.03')-something that agitates and arouses
+			 
+			tertiary: thrill(# of synsets: 7)
+			 Synset('frisson.n.01')-an almost pleasurable sensation of fright
+			 Synset('bang.n.04')-the swift release of a store of affective force
+			 Synset('thrill.n.03')-something that causes you to experience a sudden intense feeling or sensation
+			 Synset('thrill.v.01')-cause to be thrilled by some perceptual input
+			 Synset('thrill.v.02')-feel sudden intense sensation or emotion
+			 Synset('shudder.v.02')-tremble convulsively, as from fear or excitement
+			 Synset('exhilarate.v.01')-fill with sublime emotion
+			 
+			tertiary: exhilaration(# of synsets: 1)
+			 Synset('exhilaration.n.01')-the feeling of lively and cheerful joy
+			 
+		secondary:optimism (# of tertiary:3 # of synsets:2)
+		 Synset('optimism.n.01')-the optimistic feeling that all is going to turn out well
+		 Synset('optimism.n.02')-a general disposition to expect the best in all things
+		 
+			tertiary: eagerness(# of synsets: 2)
+			 Synset('readiness.n.02')-prompt willingness
+			 Synset('eagerness.n.01')-a positive feeling of wanting to push ahead with something
+			 
+			tertiary: hope(# of synsets: 9)
+			 Synset('hope.v.01')-expect and wish
+			 Synset('hope.n.01')-a specific instance of feeling hopeful
+			 Synset('hope.n.02')-the general feeling that some desire will be fulfilled
+			 Synset('promise.n.02')-grounds for feeling hopeful about the future
+			 Synset('hope.n.04')-someone (or something) on which expectations are centered
+			 Synset('hope.n.05')-United States comedian (born in England) who appeared in films with Bing Crosby (1903-2003)
+			 Synset('hope.n.06')-one of the three Christian virtues
+			 Synset('hope.v.02')-be optimistic; be full of hope; have hopes
+			 Synset('hope.v.03')-intend with some possibility of fulfilment
+			 >>> cycles to parent set([Synset('optimism.n.01'), Synset('optimism.n.02')])
+			tertiary: optimism(# of synsets: 2)
+			 Synset('optimism.n.01')-the optimistic feeling that all is going to turn out well
+			 Synset('optimism.n.02')-a general disposition to expect the best in all things
+			 
+		secondary:contentment (# of tertiary:2 # of synsets:1)
+		 Synset('contentment.n.01')-happiness with one's situation in life
+		 >>> cycles to parent set([Synset('contentment.n.01')])
+			tertiary: contentment(# of synsets: 1)
+			 Synset('contentment.n.01')-happiness with one's situation in life
+			 >>> cycles to grandparent set([Synset('joy.n.02')])
+			tertiary: pleasure(# of synsets: 5)
+			 Synset('joy.n.02')-something or someone that provides a source of happiness
+			 Synset('pleasure.n.01')-a fundamental feeling that is hard to define but that people desire to experience
+			 Synset('pleasure.n.03')-a formal expression
+			 Synset('pleasure.n.04')-an activity that affords enjoyment
+			 Synset('pleasure.n.05')-sexual gratification
+			 
+		secondary:relief (# of tertiary:1 # of synsets:11)
+		 Synset('relief.n.01')-the feeling that comes when something burdensome is removed or reduced
+		 Synset('relief.n.02')-the condition of being comfortable or relieved (especially after being relieved of distress)
+		 Synset('relief.n.03')-(law) redress awarded by a court
+		 Synset('stand-in.n.01')-someone who takes the place of another (as when things get dangerous or difficult)
+		 Synset('relief.n.05')-assistance in time of difficulty
+		 Synset('respite.n.04')-a pause for relaxation
+		 Synset('easing.n.01')-a change for the better
+		 Synset('relief.n.08')-aid for the aged or indigent or handicapped
+		 Synset('easing.n.02')-the act of reducing something unpleasant (as pain or annoyance)
+		 Synset('relief.n.10')-sculpture consisting of shapes carved on a surface so as to stand out from the surrounding background
+		 Synset('relief.n.11')-the act of freeing a city or town that has been besieged
+		 >>> cycles to parent set([Synset('relief.n.08'), Synset('relief.n.05'), Synset('easing.n.02'), Synset('relief.n.01'), Synset('relief.n.02'), Synset('relief.n.03'), Synset('respite.n.04'), Synset('relief.n.11'), Synset('easing.n.01'), Synset('stand-in.n.01'), Synset('relief.n.10')])
+			tertiary: relief(# of synsets: 11)
+			 Synset('relief.n.01')-the feeling that comes when something burdensome is removed or reduced
+			 Synset('relief.n.02')-the condition of being comfortable or relieved (especially after being relieved of distress)
+			 Synset('relief.n.03')-(law) redress awarded by a court
+			 Synset('stand-in.n.01')-someone who takes the place of another (as when things get dangerous or difficult)
+			 Synset('relief.n.05')-assistance in time of difficulty
+			 Synset('respite.n.04')-a pause for relaxation
+			 Synset('easing.n.01')-a change for the better
+			 Synset('relief.n.08')-aid for the aged or indigent or handicapped
+			 Synset('easing.n.02')-the act of reducing something unpleasant (as pain or annoyance)
+			 Synset('relief.n.10')-sculpture consisting of shapes carved on a surface so as to stand out from the surrounding background
+			 Synset('relief.n.11')-the act of freeing a city or town that has been besieged
+			 
+		secondary:pride (# of tertiary:2 # of synsets:6)
+		 Synset('pride.n.01')-a feeling of self-respect and personal worth
+		 Synset('pride.n.02')-satisfaction with your (or another's) achievements
+		 Synset('pride.n.03')-the trait of being spurred on by a dislike of falling below your standards
+		 Synset('pride.n.04')-a group of lions
+		 Synset('pride.n.05')-unreasonable and inordinate self-esteem (personified as one of the deadly sins)
+		 Synset('pride.v.01')-be proud of
+		 >>> cycles to parent set([Synset('pride.n.02'), Synset('pride.n.03'), Synset('pride.n.01'), Synset('pride.n.04'), Synset('pride.n.05'), Synset('pride.v.01')])
+			tertiary: pride(# of synsets: 6)
+			 Synset('pride.n.01')-a feeling of self-respect and personal worth
+			 Synset('pride.n.02')-satisfaction with your (or another's) achievements
+			 Synset('pride.n.03')-the trait of being spurred on by a dislike of falling below your standards
+			 Synset('pride.n.04')-a group of lions
+			 Synset('pride.n.05')-unreasonable and inordinate self-esteem (personified as one of the deadly sins)
+			 Synset('pride.v.01')-be proud of
+			 
+			tertiary: triumph(# of synsets: 6)
+			 Synset('triumph.n.02')-the exultation of victory
+			 Synset('victory.n.01')-a successful ending of a struggle or contest
+			 Synset('prevail.v.04')-prove superior
+			 Synset('wallow.v.04')-be ecstatic with joy
+			 Synset('gloat.v.01')-dwell on with satisfaction
+			 Synset('exuberate.v.01')-to express great joy
+			 
+		secondary:cheerfulness (# of tertiary:17 # of synsets:2)
+		 Synset('cheerfulness.n.01')-the quality of being cheerful and dispelling gloom
+		 Synset('cheerfulness.n.02')-a feeling of spontaneous good spirits
+		 
+			tertiary: amusement(# of synsets: 2)
+			 Synset('amusement.n.01')-a feeling of delight at being entertained
+			 Synset('entertainment.n.01')-an activity that is diverting and that holds the attention
+			 
+			tertiary: bliss(# of synsets: 1)
+			 Synset('bliss.n.01')-a state of extreme happiness
+			 >>> cycles to parent set([Synset('cheerfulness.n.01'), Synset('cheerfulness.n.02')])
+			tertiary: cheerfulness(# of synsets: 2)
+			 Synset('cheerfulness.n.01')-the quality of being cheerful and dispelling gloom
+			 Synset('cheerfulness.n.02')-a feeling of spontaneous good spirits
+			 
+			tertiary: gaiety(# of synsets: 2)
+			 Synset('gaiety.n.01')-a gay feeling
+			 Synset('gaiety.n.02')-a festive merry feeling
+			 
+			tertiary: glee(# of synsets: 2)
+			 Synset('hilarity.n.01')-great merriment
+			 Synset('gloat.n.01')-malicious satisfaction
+			 
+			tertiary: jolliness(# of synsets: 1)
+			 Synset('jollity.n.01')-feeling jolly and jovial and full of good humor
+			 
+			tertiary: joviality(# of synsets: 2)
+			 Synset('conviviality.n.01')-a jovial nature
+			 Synset('jollity.n.01')-feeling jolly and jovial and full of good humor
+			 >>> cycles to grandparent set([Synset('rejoice.v.01'), Synset('joy.n.01'), Synset('joy.n.02'), Synset('gladden.v.01')])
+			tertiary: joy(# of synsets: 4)
+			 Synset('joy.n.01')-the emotion of great happiness
+			 Synset('joy.n.02')-something or someone that provides a source of happiness
+			 Synset('rejoice.v.01')-feel happiness or joy
+			 Synset('gladden.v.01')-make glad or happy
+			 >>> cycles to grandparent set([Synset('joy.n.02')])
+			tertiary: delight(# of synsets: 5)
+			 Synset('joy.n.02')-something or someone that provides a source of happiness
+			 Synset('delight.n.01')-a feeling of extreme pleasure or satisfaction
+			 Synset('delight.v.02')-take delight in
+			 Synset('please.v.01')-give pleasure to or be pleasing to
+			 Synset('enchant.v.01')-hold spellbound
+			 
+			tertiary: enjoyment(# of synsets: 3)
+			 Synset('enjoyment.n.01')-the pleasure felt when having a good time
+			 Synset('enjoyment.n.02')-act of receiving pleasure from something
+			 Synset('use.n.07')-(law) the exercise of the legal right to enjoy the benefits of owning property
+			 
+			tertiary: gladness(# of synsets: 1)
+			 Synset('gladness.n.01')-experiencing joy and pleasure
+			 
+			tertiary: happiness(# of synsets: 2)
+			 Synset('happiness.n.01')-state of well-being characterized by emotions ranging from contentment to intense joy
+			 Synset('happiness.n.02')-emotions experienced when in a state of well-being
+			 
+			tertiary: jubilation(# of synsets: 3)
+			 Synset('exultation.n.01')-a feeling of extreme joy
+			 Synset('celebration.n.01')-a joyful occasion for special festivities to mark some happy event
+			 Synset('exultation.n.02')-the utterance of sounds expressing great joy
+			 
+			tertiary: elation(# of synsets: 2)
+			 Synset('elation.n.01')-an exhilarating psychological state of pride and optimism; an absence of depression
+			 Synset('elation.n.02')-a feeling of joy and pride
+			 
+			tertiary: satisfaction(# of synsets: 5)
+			 Synset('satisfaction.n.01')-the contentment one feels when one has fulfilled a desire, need, or expectation
+			 Synset('gratification.n.01')-state of being gratified or satisfied
+			 Synset('atonement.n.01')-compensation for a wrong
+			 Synset('satisfaction.n.05')-act of fulfilling a desire or need or appetite
+			 Synset('satisfaction.n.04')-(law) the payment of a debt or fulfillment of an obligation
+			 
+			tertiary: ecstasy(# of synsets: 3)
+			 Synset('ecstasy.n.01')-a state of being carried away by overwhelming emotion
+			 Synset('ecstasy.n.02')-a state of elated bliss
+			 Synset('adam.n.03')-street names for methylenedioxymethamphetamine
+			 
+			tertiary: euphoria(# of synsets: 1)
+			 Synset('euphoria.n.01')-a feeling of great (usually exaggerated) elation
+			 
+primary: sadness(# of secondary:6 # of synsets: 3)
+	 Synset('sadness.n.01')-emotions experienced when not in a state of well-being
+	 Synset('sadness.n.02')-the state of being sad
+	 Synset('gloominess.n.03')-the quality of excessive mournfulness and uncheerfulness
+	 
+		secondary:sympathy (# of tertiary:2 # of synsets:3)
+		 Synset('sympathy.n.01')-an inclination to support or be loyal to or to agree with an opinion
+		 Synset('sympathy.n.02')-sharing the feelings of others (especially feelings of sorrow or anguish)
+		 Synset('sympathy.n.03')-a relation of affinity or harmony between people; whatever affects one correspondingly affects the other
+		 
+			tertiary: pity(# of synsets: 4)
+			 Synset('compassion.n.02')-the humane quality of understanding the suffering of others and wanting to do something about it
+			 Synset('commiseration.n.01')-a feeling of sympathy and sorrow for the misfortunes of others
+			 Synset('pity.n.02')-an unfortunate development
+			 Synset('feel_for.v.01')-share the suffering of
+			 >>> cycles to parent set([Synset('sympathy.n.01'), Synset('sympathy.n.02'), Synset('sympathy.n.03')])
+			tertiary: sympathy(# of synsets: 3)
+			 Synset('sympathy.n.01')-an inclination to support or be loyal to or to agree with an opinion
+			 Synset('sympathy.n.02')-sharing the feelings of others (especially feelings of sorrow or anguish)
+			 Synset('sympathy.n.03')-a relation of affinity or harmony between people; whatever affects one correspondingly affects the other
+			 
+		secondary:sadness (# of tertiary:12 # of synsets:3)
+		 >>> cycles to parent set([Synset('sadness.n.01'), Synset('gloominess.n.03'), Synset('sadness.n.02')])Synset('sadness.n.01')-emotions experienced when not in a state of well-being
+		 Synset('sadness.n.02')-the state of being sad
+		 Synset('gloominess.n.03')-the quality of excessive mournfulness and uncheerfulness
+		 
+			tertiary: depression(# of synsets: 10)
+			 Synset('depression.n.01')-a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity
+			 Synset('depression.n.02')-a long-term economic state characterized by unemployment and low prices and low levels of trade and investment
+			 Synset('natural_depression.n.01')-a sunken or depressed geological formation
+			 Synset('depression.n.05')-a period during the 1930s when there was a worldwide economic depression and mass unemployment
+			 Synset('depression.n.04')-sad feelings of gloom and inadequacy
+			 Synset('low.n.01')-an air mass of lower pressure; often brings precipitation
+			 Synset('depressive_disorder.n.01')-a state of depression and anhedonia so severe as to require clinical intervention
+			 Synset('depression.n.09')-angular distance below the horizon (especially of a celestial object)
+			 Synset('depression.n.08')-a concavity in a surface produced by pressing
+			 Synset('depression.n.10')-pushing down
+			 
+			tertiary: despair(# of synsets: 3)
+			 Synset('despair.n.01')-a state in which all hope is lost or absent
+			 Synset('despair.n.02')-the feeling that everything is wrong and nothing will turn out well
+			 Synset('despair.v.01')-abandon hope; give up hope; lose heart
+			 
+			tertiary: hopelessness(# of synsets: 1)
+			 Synset('hopelessness.n.01')-the despair you feel when you have abandoned hope of comfort or success
+			 
+			tertiary: gloom(# of synsets: 3)
+			 Synset('gloom.n.01')-a state of partial or total darkness
+			 Synset('gloom.n.02')-a feeling of melancholy apprehension
+			 Synset('gloom.n.03')-an atmosphere of depression and melancholy
+			 
+			tertiary: glumness(# of synsets: 2)
+			 Synset('gloom.n.03')-an atmosphere of depression and melancholy
+			 Synset('moroseness.n.01')-a gloomy ill-tempered feeling
+			 >>> cycles to parent set([Synset('sadness.n.01'), Synset('gloominess.n.03'), Synset('sadness.n.02')])>>> cycles to grandparent set([Synset('sadness.n.01'), Synset('gloominess.n.03'), Synset('sadness.n.02')])
+			tertiary: sadness(# of synsets: 3)
+			 Synset('sadness.n.01')-emotions experienced when not in a state of well-being
+			 Synset('sadness.n.02')-the state of being sad
+			 Synset('gloominess.n.03')-the quality of excessive mournfulness and uncheerfulness
+			 >>> cycles to parent set([Synset('sadness.n.01')])>>> cycles to grandparent set([Synset('sadness.n.01')])
+			tertiary: unhappiness(# of synsets: 2)
+			 Synset('sadness.n.01')-emotions experienced when not in a state of well-being
+			 Synset('unhappiness.n.02')-state characterized by emotions ranging from mild discontentment to deep grief
+			 
+			tertiary: grief(# of synsets: 2)
+			 Synset('grief.n.01')-intense sorrow caused by loss of a loved one (especially by death)
+			 Synset('grief.n.02')-something that causes great unhappiness
+			 >>> cycles to parent set([Synset('sadness.n.02')])>>> cycles to grandparent set([Synset('sadness.n.02')])
+			tertiary: sorrow(# of synsets: 5)
+			 Synset('sadness.n.02')-the state of being sad
+			 Synset('sorrow.n.02')-sadness associated with some wrong done or some disappointment
+			 Synset('grief.n.02')-something that causes great unhappiness
+			 Synset('sorrow.n.01')-an emotion of great sadness associated with loss or bereavement
+			 Synset('grieve.v.01')-feel grief
+			 
+			tertiary: woe(# of synsets: 2)
+			 Synset('suffering.n.02')-misery resulting from affliction
+			 Synset('woe.n.02')-intense mournfulness
+			 
+			tertiary: misery(# of synsets: 2)
+			 Synset('misery.n.01')-a state of ill-being due to affliction or misfortune
+			 Synset('misery.n.02')-a feeling of intense unhappiness
+			 
+			tertiary: melancholy(# of synsets: 5)
+			 Synset('somber.s.02')-grave or even gloomy in character
+			 Synset('melancholy.n.01')-a feeling of thoughtful sadness
+			 Synset('melancholy.n.02')-a constitutional tendency to be gloomy and depressed
+			 Synset('black_bile.n.01')-a humor that was once believed to be secreted by the kidneys or spleen and to cause sadness and melancholy
+			 Synset('melancholy.s.01')-characterized by or causing or expressing sadness
+			 
+		secondary:shame (# of tertiary:4 # of synsets:7)
+		 Synset('shame.n.01')-a painful emotion resulting from an awareness of inadequacy or guilt
+		 Synset('pity.n.02')-an unfortunate development
+		 Synset('shame.n.02')-a state of dishonor
+		 Synset('shame.v.02')-compel through a sense of shame
+		 Synset('dishonor.v.01')-bring shame or dishonor upon
+		 Synset('shame.v.03')-cause to be ashamed
+		 Synset('shame.v.04')-surpass or beat by a wide margin
+		 
+			tertiary: guilt(# of synsets: 2)
+			 Synset('guilt.n.01')-the state of having committed an offense
+			 Synset('guilt.n.02')-remorse caused by feeling responsible for some offense
+			 >>> cycles to parent set([Synset('dishonor.v.01'), Synset('pity.n.02'), Synset('shame.v.04'), Synset('shame.v.02'), Synset('shame.v.03'), Synset('shame.n.01'), Synset('shame.n.02')])
+			tertiary: shame(# of synsets: 7)
+			 Synset('shame.n.01')-a painful emotion resulting from an awareness of inadequacy or guilt
+			 Synset('pity.n.02')-an unfortunate development
+			 Synset('shame.n.02')-a state of dishonor
+			 Synset('shame.v.02')-compel through a sense of shame
+			 Synset('dishonor.v.01')-bring shame or dishonor upon
+			 Synset('shame.v.03')-cause to be ashamed
+			 Synset('shame.v.04')-surpass or beat by a wide margin
+			 
+			tertiary: regret(# of synsets: 5)
+			 Synset('sorrow.n.02')-sadness associated with some wrong done or some disappointment
+			 Synset('repent.v.02')-feel remorse for; feel sorry for; be contrite about
+			 Synset('regret.v.02')-feel sad about the loss or absence of
+			 Synset('regret.v.03')-decline formally or politely
+			 Synset('regret.v.04')-express with regret
+			 
+			tertiary: remorse(# of synsets: 1)
+			 Synset('compunction.n.01')-a feeling of deep regret (usually for some misdeed)
+			 
+		secondary:suffering (# of tertiary:4 # of synsets:17)
+		 Synset('suffering.n.02')-misery resulting from affliction
+		 Synset('agony.n.02')-a state of acute pain
+		 Synset('distress.n.01')-psychological suffering
+		 Synset('suffer.v.06')-feel pain or be in pain
+		 Synset('suffering.n.04')-feelings of mental or physical pain
+		 Synset('suffer.v.01')-undergo or be subjected to
+		 Synset('suffer.v.02')-undergo (as of injuries and illnesses)
+		 Synset('suffer.v.03')-experience (emotional) pain
+		 Synset('digest.v.03')-put up with something or somebody unpleasant
+		 Synset('suffer.v.05')-get worse
+		 Synset('hurt.v.06')-feel physical pain
+		 Synset('suffer.v.08')-feel unwell or uncomfortable
+		 Synset('suffer.v.09')-be given to
+		 Synset('suffer.v.10')-undergo or suffer
+		 Synset('suffer.v.11')-be set at a disadvantage
+		 Synset('suffering.s.01')-troubled by pain or loss
+		 Synset('miserable.s.01')-very unhappy; full of misery
+		 >>> cycles to parent set([Synset('agony.n.02')])
+			tertiary: agony(# of synsets: 2)
+			 Synset('agony.n.02')-a state of acute pain
+			 Synset('agony.n.01')-intense feelings of suffering; acute mental or physical pain
+			 >>> cycles to parent set([Synset('suffer.v.08'), Synset('suffering.n.02'), Synset('suffering.n.04'), Synset('agony.n.02'), Synset('suffer.v.02'), Synset('suffer.v.03'), Synset('suffer.v.01'), Synset('suffer.v.06'), Synset('suffer.v.05'), Synset('miserable.s.01'), Synset('suffer.v.09'), Synset('suffer.v.11'), Synset('distress.n.01'), Synset('hurt.v.06'), Synset('digest.v.03'), Synset('suffering.s.01'), Synset('suffer.v.10')])
+			tertiary: suffering(# of synsets: 17)
+			 Synset('suffering.n.02')-misery resulting from affliction
+			 Synset('agony.n.02')-a state of acute pain
+			 Synset('distress.n.01')-psychological suffering
+			 Synset('suffer.v.06')-feel pain or be in pain
+			 Synset('suffering.n.04')-feelings of mental or physical pain
+			 Synset('suffer.v.01')-undergo or be subjected to
+			 Synset('suffer.v.02')-undergo (as of injuries and illnesses)
+			 Synset('suffer.v.03')-experience (emotional) pain
+			 Synset('digest.v.03')-put up with something or somebody unpleasant
+			 Synset('suffer.v.05')-get worse
+			 Synset('hurt.v.06')-feel physical pain
+			 Synset('suffer.v.08')-feel unwell or uncomfortable
+			 Synset('suffer.v.09')-be given to
+			 Synset('suffer.v.10')-undergo or suffer
+			 Synset('suffer.v.11')-be set at a disadvantage
+			 Synset('suffering.s.01')-troubled by pain or loss
+			 Synset('miserable.s.01')-very unhappy; full of misery
+			 >>> cycles to parent set([Synset('hurt.v.06'), Synset('suffer.v.06'), Synset('suffering.n.04'), Synset('distress.n.01')])
+			tertiary: hurt(# of synsets: 14)
+			 Synset('distress.n.01')-psychological suffering
+			 Synset('suffer.v.06')-feel pain or be in pain
+			 Synset('suffering.n.04')-feelings of mental or physical pain
+			 Synset('hurt.v.06')-feel physical pain
+			 Synset('injury.n.01')-any physical damage to the body caused by violence or accident or fracture etc.
+			 Synset('detriment.n.01')-a damage or loss
+			 Synset('damage.n.03')-the act of damaging something or someone
+			 Synset('ache.v.03')-be the source of pain
+			 Synset('hurt.v.02')-give trouble or pain to
+			 Synset('pain.v.02')-cause emotional anguish or make miserable
+			 Synset('hurt.v.04')-cause damage or affect negatively
+			 Synset('hurt.v.05')-hurt the feelings of
+			 Synset('hurt.s.01')-suffering from physical injury especially that suffered in battle
+			 Synset('hurt.s.02')-damaged inanimate objects or their value
+			 
+			tertiary: anguish(# of synsets: 4)
+			 Synset('pain.v.02')-cause emotional anguish or make miserable
+			 Synset('anguish.n.01')-extreme mental distress
+			 Synset('anguish.v.01')-suffer great pains or distress
+			 Synset('anguish.n.02')-extreme distress of body or mind
+			 
+		secondary:disappointment (# of tertiary:3 # of synsets:2)
+		 Synset('disappointment.n.01')-a feeling of dissatisfaction that results when your expectations are not realized
+		 Synset('disappointment.n.02')-an act (or failure to act) that disappoints someone
+		 
+			tertiary: dismay(# of synsets: 4)
+			 Synset('discouragement.n.01')-the feeling of despair in the face of obstacles
+			 Synset('alarm.n.01')-fear resulting from the awareness of danger
+			 Synset('depress.v.01')-lower someone's spirits; make downhearted
+			 Synset('dismay.v.02')-fill with apprehension or alarm; cause to be unpleasantly surprised
+			 >>> cycles to parent set([Synset('disappointment.n.01'), Synset('disappointment.n.02')])
+			tertiary: disappointment(# of synsets: 2)
+			 Synset('disappointment.n.01')-a feeling of dissatisfaction that results when your expectations are not realized
+			 Synset('disappointment.n.02')-an act (or failure to act) that disappoints someone
+			 
+			tertiary: displeasure(# of synsets: 1)
+			 Synset('displeasure.n.01')-the feeling of being displeased or annoyed or dissatisfied with someone or something
+			 
+		secondary:neglect (# of tertiary:12 # of synsets:9)
+		 Synset('disregard.n.01')-lack of attention and due care
+		 Synset('neglect.n.02')-the state of something that has been unused and neglected
+		 Synset('disregard.n.02')-willful lack of care and attention
+		 Synset('negligence.n.02')-the trait of neglecting responsibilities and lacking concern
+		 Synset('negligence.n.01')-failure to act with the prudence that a reasonable person would exercise under the same circumstances
+		 Synset('neglect.v.01')-leave undone or leave out
+		 Synset('fail.v.01')-fail to do something; leave something undone
+		 Synset('neglect.v.03')-fail to attend to
+		 Synset('neglect.v.04')-give little or no attention to
+		 
+			tertiary: alienation(# of synsets: 4)
+			 Synset('alienation.n.01')-the feeling of being alienated from other people
+			 Synset('alienation.n.02')-separation resulting from hostility
+			 Synset('alienation.n.03')-(law) the voluntary and absolute transfer of title and possession of real property from one person to another
+			 Synset('alienation.n.04')-the action of alienating; the action of causing to become unfriendly
+			 
+			tertiary: isolation(# of synsets: 5)
+			 Synset('isolation.n.02')-a feeling of being disliked and alone
+			 Synset('isolation.n.01')-a state of separation between persons or groups
+			 Synset('isolation.n.03')-the act of isolating something; setting something apart from others
+			 Synset('isolation.n.04')-(psychiatry) a defense mechanism in which memory of an unacceptable act or impulse is separated from the emotion originally associated with it
+			 Synset('isolation.n.05')-a country's withdrawal from international politics
+			 >>> cycles to parent set([Synset('neglect.v.01'), Synset('disregard.n.01'), Synset('neglect.v.03'), Synset('neglect.v.04'), Synset('disregard.n.02'), Synset('neglect.n.02'), Synset('negligence.n.02'), Synset('negligence.n.01'), Synset('fail.v.01')])
+			tertiary: neglect(# of synsets: 9)
+			 Synset('disregard.n.01')-lack of attention and due care
+			 Synset('neglect.n.02')-the state of something that has been unused and neglected
+			 Synset('disregard.n.02')-willful lack of care and attention
+			 Synset('negligence.n.02')-the trait of neglecting responsibilities and lacking concern
+			 Synset('negligence.n.01')-failure to act with the prudence that a reasonable person would exercise under the same circumstances
+			 Synset('neglect.v.01')-leave undone or leave out
+			 Synset('fail.v.01')-fail to do something; leave something undone
+			 Synset('neglect.v.03')-fail to attend to
+			 Synset('neglect.v.04')-give little or no attention to
+			 
+			tertiary: loneliness(# of synsets: 3)
+			 Synset('forlornness.n.01')-sadness resulting from being forsaken or abandoned
+			 Synset('loneliness.n.01')-the state of being alone in solitary isolation
+			 Synset('aloneness.n.01')-a disposition toward being alone
+			 
+			tertiary: rejection(# of synsets: 4)
+			 Synset('rejection.n.03')-(medicine) an immunological response that refuses to accept substances or organisms that are recognized as foreign
+			 Synset('rejection.n.01')-the act of rejecting something
+			 Synset('rejection.n.02')-the state of being rejected
+			 Synset('rejection.n.04')-the speech act of rejecting
+			 
+			tertiary: homesickness(# of synsets: 1)
+			 Synset('homesickness.n.01')-a longing to return home
+			 
+			tertiary: defeat(# of synsets: 4)
+			 Synset('defeat.n.01')-an unsuccessful ending to a struggle or contest
+			 Synset('frustration.n.01')-the feeling that accompanies an experience of being thwarted in attaining your goals
+			 Synset('get_the_better_of.v.01')-win a victory over
+			 Synset('kill.v.02')-thwart the passage of
+			 
+			tertiary: dejection(# of synsets: 2)
+			 Synset('dejection.n.01')-a state of melancholy depression
+			 Synset('fecal_matter.n.01')-solid excretory product evacuated from the bowels
+			 
+			tertiary: insecurity(# of synsets: 2)
+			 Synset('insecurity.n.02')-the anxiety you experience when you feel vulnerable and insecure
+			 Synset('insecurity.n.01')-the state of being subject to danger or injury
+			 
+			tertiary: embarrassment(# of synsets: 4)
+			 Synset('embarrassment.n.01')-the shame you feel when your inadequacy or guilt is made public
+			 Synset('embarrassment.n.02')-the state of being embarrassed (usually by some financial inadequacy)
+			 Synset('embarrassment.n.03')-some event that causes someone to be embarrassed
+			 Synset('overplus.n.01')-extreme excess
+			 
+			tertiary: humiliation(# of synsets: 4)
+			 Synset('humiliation.n.01')-state of disgrace or loss of self-respect
+			 Synset('chagrin.n.01')-strong feelings of embarrassment
+			 Synset('humiliation.n.03')-an instance in which you are caused to lose your prestige or self-respect
+			 Synset('humiliation.n.04')-depriving one of self-esteem
+			 
+			tertiary: insult(# of synsets: 3)
+			 Synset('abuse.n.02')-a rude expression intended to offend or hurt
+			 Synset('insult.n.02')-a deliberately offensive act or something producing the effect of deliberate disrespect
+			 Synset('diss.v.01')-treat, mention, or speak to rudely
+			 
+primary: anger(# of secondary:6 # of synsets: 5)
+	 Synset('anger.n.01')-a strong emotion; a feeling that is oriented toward some real or supposed grievance
+	 Synset('anger.n.02')-the state of being angry
+	 Synset('anger.v.02')-become angry
+	 Synset('wrath.n.02')-belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)
+	 Synset('anger.v.01')-make angry
+	 
+		secondary:envy (# of tertiary:2 # of synsets:4)
+		 Synset('envy.n.01')-a feeling of grudging admiration and desire to have something that is possessed by another
+		 Synset('envy.n.02')-spite and resentment at seeing the success of another (personified as one of the deadly sins)
+		 Synset('envy.v.01')-feel envious towards; admire enviously
+		 Synset('envy.v.02')-be envious of; set one's heart on
+		 >>> cycles to parent set([Synset('envy.n.01'), Synset('envy.v.01'), Synset('envy.v.02'), Synset('envy.n.02')])
+			tertiary: envy(# of synsets: 4)
+			 Synset('envy.n.01')-a feeling of grudging admiration and desire to have something that is possessed by another
+			 Synset('envy.n.02')-spite and resentment at seeing the success of another (personified as one of the deadly sins)
+			 Synset('envy.v.01')-feel envious towards; admire enviously
+			 Synset('envy.v.02')-be envious of; set one's heart on
+			 
+			tertiary: jealousy(# of synsets: 2)
+			 Synset('jealousy.n.01')-a feeling of jealous envy (especially of a rival)
+			 Synset('jealousy.n.02')-zealous vigilance
+			 
+		secondary:rage (# of tertiary:15 # of synsets:8)
+		 Synset('rage.n.03')-something that is desired intensely
+		 Synset('fury.n.01')-a feeling of intense anger
+		 Synset('rage.n.02')-a state of extreme anger
+		 Synset('fad.n.01')-an interest followed with exaggerated zeal
+		 Synset('rage.n.04')-violent state of the elements
+		 Synset('rage.v.03')-feel intense anger
+		 Synset('ramp.v.01')-behave violently, as if in state of a great anger
+		 Synset('rage.v.02')-be violent; as of fires and storms
+		 >>> cycles to grandparent set([Synset('anger.n.02'), Synset('anger.v.01'), Synset('wrath.n.02'), Synset('anger.n.01'), Synset('anger.v.02')])
+			tertiary: anger(# of synsets: 5)
+			 Synset('anger.n.01')-a strong emotion; a feeling that is oriented toward some real or supposed grievance
+			 Synset('anger.n.02')-the state of being angry
+			 Synset('anger.v.02')-become angry
+			 Synset('wrath.n.02')-belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)
+			 Synset('anger.v.01')-make angry
+			 >>> cycles to parent set([Synset('fad.n.01'), Synset('fury.n.01'), Synset('ramp.v.01'), Synset('rage.v.02'), Synset('rage.v.03'), Synset('rage.n.04'), Synset('rage.n.02'), Synset('rage.n.03')])
+			tertiary: rage(# of synsets: 8)
+			 Synset('rage.n.03')-something that is desired intensely
+			 Synset('fury.n.01')-a feeling of intense anger
+			 Synset('rage.n.02')-a state of extreme anger
+			 Synset('fad.n.01')-an interest followed with exaggerated zeal
+			 Synset('rage.n.04')-violent state of the elements
+			 Synset('rage.v.03')-feel intense anger
+			 Synset('ramp.v.01')-behave violently, as if in state of a great anger
+			 Synset('rage.v.02')-be violent; as of fires and storms
+			 
+			tertiary: outrage(# of synsets: 7)
+			 Synset('outrage.n.02')-a wantonly cruel act
+			 Synset('indignation.n.01')-a feeling of righteous anger
+			 Synset('scandal.n.02')-a disgraceful event
+			 Synset('scandalization.n.02')-the act of scandalizing
+			 Synset('rape.v.01')-force (someone) to have sex against their will
+			 Synset('shock.v.02')-strike with disgust or revulsion
+			 Synset('desecrate.v.01')-violate the sacred character of a place or language
+			 >>> cycles to parent set([Synset('fury.n.01')])
+			tertiary: fury(# of synsets: 4)
+			 Synset('fury.n.01')-a feeling of intense anger
+			 Synset('craze.n.02')-state of violent mental agitation
+			 Synset('fury.n.04')-(classical mythology) the hideous snake-haired monsters (usually three in number) who pursued unpunished criminals
+			 Synset('ferocity.n.01')-the property of being wild or turbulent
+			 >>> cycles to grandparent set([Synset('wrath.n.02')])
+			tertiary: wrath(# of synsets: 2)
+			 Synset('wrath.n.02')-belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)
+			 Synset('wrath.n.01')-intense anger (usually on an epic scale)
+			 
+			tertiary: hostility(# of synsets: 4)
+			 Synset('aggression.n.03')-violent action that is hostile and usually unprovoked
+			 Synset('hostility.n.01')-a hostile (very unfriendly) disposition
+			 Synset('hostility.n.02')-a state of deep-seated ill-will
+			 Synset('hostility.n.03')-the feeling of a hostile person
+			 
+			tertiary: ferocity(# of synsets: 1)
+			 Synset('ferocity.n.01')-the property of being wild or turbulent
+			 
+			tertiary: bitterness(# of synsets: 4)
+			 Synset('resentment.n.01')-a feeling of deep and bitter anger and ill-will
+			 Synset('bitterness.n.02')-a rough and bitter manner
+			 Synset('bitter.n.02')-the taste experience when quinine or coffee is taken into the mouth
+			 Synset('bitterness.n.04')-the property of having a harsh unpleasant taste
+			 
+			tertiary: hate(# of synsets: 2)
+			 Synset('hate.n.01')-the emotion of intense dislike; a feeling of dislike so strong that it demands action
+			 Synset('hate.v.01')-dislike intensely; feel antipathy or aversion towards
+			 
+			tertiary: loathing(# of synsets: 2)
+			 Synset('abhor.v.01')-find repugnant
+			 Synset('abhorrence.n.01')-hate coupled with disgust
+			 
+			tertiary: scorn(# of synsets: 4)
+			 Synset('contempt.n.01')-lack of respect accompanied by a feeling of intense dislike
+			 Synset('contempt.n.03')-open disrespect for a person or thing
+			 Synset('contemn.v.01')-look down on with disdain
+			 Synset('reject.v.04')-reject with contempt
+			 
+			tertiary: spite(# of synsets: 3)
+			 Synset('hurt.v.05')-hurt the feelings of
+			 Synset('malice.n.01')-feeling a need to see others suffer
+			 Synset('cattiness.n.01')-malevolence by virtue of being malicious or spiteful or nasty
+			 
+			tertiary: vengefulness(# of synsets: 1)
+			 Synset('vindictiveness.n.01')-a malevolent desire for revenge
+			 
+			tertiary: dislike(# of synsets: 3)
+			 Synset('disfavor.n.02')-an inclination to withhold approval from some person or group
+			 Synset('dislike.n.02')-a feeling of aversion or antipathy
+			 Synset('dislike.v.01')-have or feel a dislike or distaste for
+			 
+			tertiary: resentment(# of synsets: 1)
+			 Synset('resentment.n.01')-a feeling of deep and bitter anger and ill-will
+			 
+		secondary:exasperation (# of tertiary:2 # of synsets:2)
+		 Synset('aggravation.n.01')-an exasperated feeling of annoyance
+		 Synset('exasperation.n.02')-actions that cause great irritation (or even anger)
+		 >>> cycles to parent set([Synset('aggravation.n.01'), Synset('exasperation.n.02')])
+			tertiary: exasperation(# of synsets: 2)
+			 Synset('aggravation.n.01')-an exasperated feeling of annoyance
+			 Synset('exasperation.n.02')-actions that cause great irritation (or even anger)
+			 
+			tertiary: frustration(# of synsets: 3)
+			 Synset('frustration.n.01')-the feeling that accompanies an experience of being thwarted in attaining your goals
+			 Synset('frustration.n.02')-an act of hindering someone's plans or efforts
+			 Synset('frustration.n.03')-a feeling of annoyance at being hindered or criticized
+			 
+		secondary:torment (# of tertiary:1 # of synsets:9)
+		 Synset('agony.n.01')-intense feelings of suffering; acute mental or physical pain
+		 Synset('anguish.n.01')-extreme mental distress
+		 Synset('torture.n.02')-unbearable physical pain
+		 Synset('torment.v.01')-torment emotionally or mentally
+		 Synset('harassment.n.01')-a feeling of intense annoyance caused by being tormented
+		 Synset('curse.n.05')-a severe affliction
+		 Synset('badgering.n.01')-the act of harassing someone
+		 Synset('torment.v.02')-treat cruelly
+		 Synset('torture.v.02')-subject to torture
+		 >>> cycles to parent set([Synset('torment.v.02'), Synset('torment.v.01'), Synset('agony.n.01'), Synset('badgering.n.01'), Synset('torture.v.02'), Synset('harassment.n.01'), Synset('anguish.n.01'), Synset('curse.n.05'), Synset('torture.n.02')])
+			tertiary: torment(# of synsets: 9)
+			 Synset('agony.n.01')-intense feelings of suffering; acute mental or physical pain
+			 Synset('anguish.n.01')-extreme mental distress
+			 Synset('torture.n.02')-unbearable physical pain
+			 Synset('torment.v.01')-torment emotionally or mentally
+			 Synset('harassment.n.01')-a feeling of intense annoyance caused by being tormented
+			 Synset('curse.n.05')-a severe affliction
+			 Synset('badgering.n.01')-the act of harassing someone
+			 Synset('torment.v.02')-treat cruelly
+			 Synset('torture.v.02')-subject to torture
+			 
+		secondary:disgust (# of tertiary:3 # of synsets:3)
+		 Synset('disgust.v.01')-fill with distaste
+		 Synset('disgust.v.02')-cause aversion in; offend the moral sense of
+		 Synset('disgust.n.01')-strong feelings of dislike
+		 >>> cycles to parent set([Synset('disgust.v.01'), Synset('disgust.n.01'), Synset('disgust.v.02')])
+			tertiary: disgust(# of synsets: 3)
+			 Synset('disgust.v.01')-fill with distaste
+			 Synset('disgust.v.02')-cause aversion in; offend the moral sense of
+			 Synset('disgust.n.01')-strong feelings of dislike
+			 
+			tertiary: revulsion(# of synsets: 1)
+			 Synset('repugnance.n.01')-intense aversion
+			 
+			tertiary: contempt(# of synsets: 4)
+			 Synset('contempt.n.01')-lack of respect accompanied by a feeling of intense dislike
+			 Synset('contempt.n.03')-open disrespect for a person or thing
+			 Synset('contempt.n.02')-a manner that is generally disrespectful and contemptuous
+			 Synset('contempt.n.04')-a willful disobedience to or disrespect for the authority of a court or legislative body
+			 
+		secondary:irritation (# of tertiary:6 # of synsets:7)
+		 Synset('irritation.n.01')-the psychological state of being irritated or annoyed
+		 Synset('pique.n.02')-a sudden outburst of anger
+		 Synset('irritation.n.03')-(pathology) abnormal sensitivity to stimulation
+		 Synset('excitation.n.02')-the neural or electrical arousal of an organ or muscle or gland
+		 Synset('discomfort.n.02')-an uncomfortable feeling of mental painfulness or distress
+		 Synset('aggravation.n.02')-unfriendly behavior that causes anger or resentment
+		 Synset('annoyance.n.05')-the act of troubling or annoying someone
+		 >>> cycles to parent set([Synset('aggravation.n.02')])
+			tertiary: aggravation(# of synsets: 3)
+			 Synset('aggravation.n.01')-an exasperated feeling of annoyance
+			 Synset('aggravation.n.03')-action that makes a problem or a disease (or its symptoms) worse
+			 Synset('aggravation.n.02')-unfriendly behavior that causes anger or resentment
+			 >>> cycles to parent set([Synset('excitation.n.02'), Synset('irritation.n.03'), Synset('irritation.n.01'), Synset('discomfort.n.02'), Synset('aggravation.n.02'), Synset('annoyance.n.05'), Synset('pique.n.02')])
+			tertiary: irritation(# of synsets: 7)
+			 Synset('irritation.n.01')-the psychological state of being irritated or annoyed
+			 Synset('pique.n.02')-a sudden outburst of anger
+			 Synset('irritation.n.03')-(pathology) abnormal sensitivity to stimulation
+			 Synset('excitation.n.02')-the neural or electrical arousal of an organ or muscle or gland
+			 Synset('discomfort.n.02')-an uncomfortable feeling of mental painfulness or distress
+			 Synset('aggravation.n.02')-unfriendly behavior that causes anger or resentment
+			 Synset('annoyance.n.05')-the act of troubling or annoying someone
+			 
+			tertiary: agitation(# of synsets: 5)
+			 Synset('agitation.n.04')-disturbance usually in protest
+			 Synset('agitation.n.01')-a mental state of extreme emotional disturbance
+			 Synset('agitation.n.02')-a state of agitation or turbulent change or development
+			 Synset('agitation.n.03')-the feeling of being agitated; not calm
+			 Synset('agitation.n.05')-the act of agitating something; causing it to move around (usually vigorously)
+			 >>> cycles to parent set([Synset('annoyance.n.05'), Synset('irritation.n.01')])
+			tertiary: annoyance(# of synsets: 5)
+			 Synset('irritation.n.01')-the psychological state of being irritated or annoyed
+			 Synset('annoyance.n.05')-the act of troubling or annoying someone
+			 Synset('annoyance.n.02')-anger produced by some annoying irritation
+			 Synset('aggravator.n.01')-an unpleasant person who is annoying or exasperating
+			 Synset('annoyance.n.04')-something or someone that causes trouble; a source of unhappiness
+			 
+			tertiary: grouchiness(# of synsets: 0)
+			 
+			tertiary: grumpiness(# of synsets: 1)
+			 Synset('crankiness.n.01')-a fussy and eccentric disposition
+			 
+primary: surprise(# of secondary:1 # of synsets: 6)
+	 Synset('surprise.n.01')-the astonishment you feel when something totally unexpected happens to you
+	 Synset('surprise.n.02')-a sudden unexpected event
+	 Synset('surprise.v.01')-cause to be surprised
+	 Synset('surprise.n.03')-the act of surprising someone
+	 Synset('surprise.v.02')-come upon or take unawares
+	 Synset('storm.v.05')-attack by storm; attack suddenly
+	 
+		secondary:surprise (# of tertiary:3 # of synsets:6)
+		 >>> cycles to parent set([Synset('storm.v.05'), Synset('surprise.n.01'), Synset('surprise.n.02'), Synset('surprise.n.03'), Synset('surprise.v.01'), Synset('surprise.v.02')])Synset('surprise.n.01')-the astonishment you feel when something totally unexpected happens to you
+		 Synset('surprise.n.02')-a sudden unexpected event
+		 Synset('surprise.v.01')-cause to be surprised
+		 Synset('surprise.n.03')-the act of surprising someone
+		 Synset('surprise.v.02')-come upon or take unawares
+		 Synset('storm.v.05')-attack by storm; attack suddenly
+		 
+			tertiary: amazement(# of synsets: 1)
+			 Synset('astonishment.n.01')-the feeling that accompanies something extremely surprising
+			 >>> cycles to parent set([Synset('storm.v.05'), Synset('surprise.n.01'), Synset('surprise.n.02'), Synset('surprise.n.03'), Synset('surprise.v.01'), Synset('surprise.v.02')])>>> cycles to grandparent set([Synset('storm.v.05'), Synset('surprise.n.01'), Synset('surprise.n.02'), Synset('surprise.n.03'), Synset('surprise.v.01'), Synset('surprise.v.02')])
+			tertiary: surprise(# of synsets: 6)
+			 Synset('surprise.n.01')-the astonishment you feel when something totally unexpected happens to you
+			 Synset('surprise.n.02')-a sudden unexpected event
+			 Synset('surprise.v.01')-cause to be surprised
+			 Synset('surprise.n.03')-the act of surprising someone
+			 Synset('surprise.v.02')-come upon or take unawares
+			 Synset('storm.v.05')-attack by storm; attack suddenly
+			 
+			tertiary: astonishment(# of synsets: 1)
+			 Synset('astonishment.n.01')-the feeling that accompanies something extremely surprising
+			 
+primary: fear(# of secondary:2 # of synsets: 8)
+	 Synset('concern.n.02')-an anxious feeling
+	 Synset('fear.n.01')-an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+	 Synset('fear.n.03')-a feeling of profound respect for someone or something
+	 Synset('fear.v.01')-be afraid or feel anxious or apprehensive about a possible or probable situation or event
+	 Synset('fear.v.04')-be uneasy or apprehensive about
+	 Synset('fear.v.02')-be afraid or scared of; be frightened of
+	 Synset('fear.v.03')-be sorry; used to introduce an unpleasant statement
+	 Synset('reverence.v.01')-regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of
+	 
+		secondary:nervousness (# of tertiary:8 # of synsets:3)
+		 Synset('jitteriness.n.01')-the anxious feeling you have when you have the jitters
+		 Synset('nervousness.n.02')-an uneasy psychological state
+		 Synset('nervousness.n.03')-a sensitive or highly strung temperament
+		 
+			tertiary: anxiety(# of synsets: 2)
+			 Synset('anxiety.n.01')-(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic
+			 Synset('anxiety.n.02')-a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune
+			 >>> cycles to parent set([Synset('jitteriness.n.01'), Synset('nervousness.n.03'), Synset('nervousness.n.02')])
+			tertiary: nervousness(# of synsets: 3)
+			 Synset('jitteriness.n.01')-the anxious feeling you have when you have the jitters
+			 Synset('nervousness.n.02')-an uneasy psychological state
+			 Synset('nervousness.n.03')-a sensitive or highly strung temperament
+			 
+			tertiary: tenseness(# of synsets: 2)
+			 Synset('tension.n.02')-the physical condition of being stretched or strained
+			 Synset('tension.n.01')-(psychology) a state of mental or emotional strain or suspense
+			 
+			tertiary: uneasiness(# of synsets: 5)
+			 Synset('edginess.n.01')-feelings of anxiety that make you tense and irritable
+			 Synset('malaise.n.01')-physical discomfort (as mild sickness or depression)
+			 Synset('self-consciousness.n.01')-embarrassment deriving from the feeling that others are critically aware of you
+			 Synset('restlessness.n.04')-inability to rest or relax or be still
+			 Synset('disquiet.n.02')-the trait of seeming ill at ease
+			 
+			tertiary: apprehension(# of synsets: 4)
+			 Synset('apprehension.n.01')-fearful expectation or anticipation
+			 Synset('understanding.n.01')-the cognitive condition of someone who understands
+			 Synset('apprehension.n.03')-painful expectation
+			 Synset('apprehension.n.04')-the act of apprehending (especially apprehending a criminal)
+			 
+			tertiary: worry(# of synsets: 8)
+			 Synset('worry.v.02')-be concerned with
+			 Synset('worry.n.02')-a strong feeling of anxiety
+			 Synset('concern.n.04')-something or someone that causes anxiety; a source of unhappiness
+			 Synset('worry.v.03')-disturb the peace of mind of; afflict with mental agitation or distress
+			 Synset('worry.v.01')-be worried, concerned, anxious, troubled, or uneasy
+			 Synset('concern.v.02')-be on the mind of
+			 Synset('worry.v.05')-lacerate by biting
+			 Synset('worry.v.06')-touch or rub constantly
+			 
+			tertiary: distress(# of synsets: 6)
+			 Synset('distress.n.01')-psychological suffering
+			 Synset('distress.n.03')-extreme physical pain
+			 Synset('distress.n.02')-a state of adversity (danger or affliction or need)
+			 Synset('distress.n.04')-the seizure and holding of property as security for payment of a debt or satisfaction of a claim
+			 Synset('straiten.v.01')-bring into difficulties or distress, especially financial hardship
+			 Synset('distress.v.02')-cause mental pain to
+			 >>> cycles to grandparent set([Synset('fear.v.02')])
+			tertiary: dread(# of synsets: 3)
+			 Synset('fear.v.02')-be afraid or scared of; be frightened of
+			 Synset('apprehension.n.01')-fearful expectation or anticipation
+			 Synset('awful.s.02')-causing fear or dread or terror
+			 
+		secondary:fear (# of tertiary:10 # of synsets:8)
+		 >>> cycles to parent set([Synset('concern.n.02'), Synset('fear.n.01'), Synset('fear.n.03'), Synset('reverence.v.01'), Synset('fear.v.01'), Synset('fear.v.03'), Synset('fear.v.02'), Synset('fear.v.04')])Synset('concern.n.02')-an anxious feeling
+		 Synset('fear.n.01')-an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+		 Synset('fear.n.03')-a feeling of profound respect for someone or something
+		 Synset('fear.v.01')-be afraid or feel anxious or apprehensive about a possible or probable situation or event
+		 Synset('fear.v.04')-be uneasy or apprehensive about
+		 Synset('fear.v.02')-be afraid or scared of; be frightened of
+		 Synset('fear.v.03')-be sorry; used to introduce an unpleasant statement
+		 Synset('reverence.v.01')-regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of
+		 
+			tertiary: horror(# of synsets: 3)
+			 Synset('horror.n.02')-something that inspires dislike; something horrible
+			 Synset('repugnance.n.01')-intense aversion
+			 Synset('horror.n.01')-intense and profound fear
+			 
+			tertiary: alarm(# of synsets: 6)
+			 Synset('alarm.n.01')-fear resulting from the awareness of danger
+			 Synset('dismay.v.02')-fill with apprehension or alarm; cause to be unpleasantly surprised
+			 Synset('alarm.n.02')-a device that signals the occurrence of some undesirable event
+			 Synset('alarm.n.03')-an automatic signal (usually a sound) warning of danger
+			 Synset('alarm_clock.n.01')-a clock that wakes a sleeper at some preset time
+			 Synset('alarm.v.02')-warn or arouse to a sense of danger or call to a state of preparedness
+			 
+			tertiary: shock(# of synsets: 17)
+			 Synset('shock.v.02')-strike with disgust or revulsion
+			 Synset('daze.n.01')-the feeling of distress and disbelief that you have when something bad happens accidentally
+			 Synset('electric_shock.n.03')-a reflex response to the passage of electric current through the body
+			 Synset('shock.n.02')-the violent interaction of individuals or groups entering into combat
+			 Synset('shock.n.04')-(pathology) bodily collapse or near collapse caused by inadequate oxygen delivery to the cells; characterized by reduced cardiac output and rapid heartbeat and circulatory insufficiency and pallor
+			 Synset('shock.n.05')-an instance of agitation of the earth's crust
+			 Synset('shock.n.08')-a bushy thick mass (especially hair)
+			 Synset('shock.n.06')-an unpleasant or disappointing surprise
+			 Synset('shock.n.07')-a pile of sheaves of grain set on end in a field to dry; stalks of Indian corn set up in a field
+			 Synset('jolt.n.01')-a sudden jarring impact
+			 Synset('shock_absorber.n.01')-a mechanical damper; absorbs energy of sudden impulses
+			 Synset('shock.v.01')-surprise greatly; knock someone's socks off
+			 Synset('shock.v.03')-strike with horror or terror
+			 Synset('shock.v.04')-collide violently
+			 Synset('shock.v.05')-collect or gather into shocks
+			 Synset('shock.v.06')-subject to electrical shocks
+			 Synset('traumatize.v.01')-inflict a trauma upon
+			 >>> cycles to parent set([Synset('concern.n.02'), Synset('fear.n.01'), Synset('fear.n.03'), Synset('reverence.v.01'), Synset('fear.v.01'), Synset('fear.v.03'), Synset('fear.v.02'), Synset('fear.v.04')])>>> cycles to grandparent set([Synset('concern.n.02'), Synset('fear.n.01'), Synset('fear.n.03'), Synset('reverence.v.01'), Synset('fear.v.01'), Synset('fear.v.03'), Synset('fear.v.02'), Synset('fear.v.04')])
+			tertiary: fear(# of synsets: 8)
+			 Synset('concern.n.02')-an anxious feeling
+			 Synset('fear.n.01')-an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+			 Synset('fear.n.03')-a feeling of profound respect for someone or something
+			 Synset('fear.v.01')-be afraid or feel anxious or apprehensive about a possible or probable situation or event
+			 Synset('fear.v.04')-be uneasy or apprehensive about
+			 Synset('fear.v.02')-be afraid or scared of; be frightened of
+			 Synset('fear.v.03')-be sorry; used to introduce an unpleasant statement
+			 Synset('reverence.v.01')-regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of
+			 >>> cycles to parent set([Synset('fear.n.01')])>>> cycles to grandparent set([Synset('fear.n.01')])
+			tertiary: fright(# of synsets: 2)
+			 Synset('fear.n.01')-an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+			 Synset('frighten.v.01')-cause fear in
+			 
+			tertiary: horror(# of synsets: 3)
+			 Synset('horror.n.02')-something that inspires dislike; something horrible
+			 Synset('repugnance.n.01')-intense aversion
+			 Synset('horror.n.01')-intense and profound fear
+			 
+			tertiary: terror(# of synsets: 4)
+			 Synset('panic.n.01')-an overwhelming feeling of fear and anxiety
+			 Synset('terror.n.03')-a very troublesome child
+			 Synset('terror.n.02')-a person who inspires fear or dread
+			 Synset('terror.n.04')-the use of extreme fear in order to coerce people (especially for political reasons)
+			 
+			tertiary: panic(# of synsets: 4)
+			 Synset('panic.n.01')-an overwhelming feeling of fear and anxiety
+			 Synset('panic.n.02')-sudden mass fear and anxiety over anticipated events
+			 Synset('panic.v.01')-be overcome by a sudden fear
+			 Synset('panic.v.02')-cause sudden fear in or fill with sudden panic
+			 
+			tertiary: hysteria(# of synsets: 3)
+			 Synset('craze.n.02')-state of violent mental agitation
+			 Synset('hysteria.n.02')-excessive or uncontrollable fear
+			 Synset('hysteria.n.03')-neurotic disorder characterized by violent emotional outbreaks and disturbances of sensory and motor functions
+			 
+			tertiary: mortification(# of synsets: 4)
+			 Synset('chagrin.n.01')-strong feelings of embarrassment
+			 Synset('humiliation.n.03')-an instance in which you are caused to lose your prestige or self-respect
+			 Synset('necrosis.n.01')-the localized death of living cells (as from infection or the interruption of blood supply)
+			 Synset('mortification.n.04')-(Christianity) the act of mortifying the lusts of the flesh by self-denial and privation (especially by bodily pain or discomfort inflicted on yourself)
+			 
